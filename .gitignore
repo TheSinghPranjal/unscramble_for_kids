@@ -43,3 +43,21 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Signing secrets — never commit (keystore lives at the project root,
+# key.properties under android/)
+*.jks
+*.keystore
+**/key.properties
+
+# Local SDK paths
+**/local.properties
+
+# Release artifacts built outside /build
+*.aab
+*.apk
+*.ipa
+
+# Claude Code local state
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
