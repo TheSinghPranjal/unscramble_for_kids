@@ -1,0 +1,3017 @@
+{
+  "version": 2,
+  "categories": [
+    "Animals",
+    "Food",
+    "Nature",
+    "Home",
+    "Colors",
+    "Body",
+    "Toys",
+    "Transport",
+    "Weather",
+    "School"
+  ],
+  "words": [
+    {
+      "id": "cat_3_001",
+      "word": "CAT",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "Says meow and loves to nap",
+      "difficulty": "easy",
+      "emoji": "🐱",
+      "image": "assets/images/words/3_letter/cat.png"
+    },
+    {
+      "id": "dog_3_002",
+      "word": "DOG",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "Wags its tail and says woof",
+      "difficulty": "easy",
+      "emoji": "🐶",
+      "image": "assets/images/words/3_letter/dog.png"
+    },
+    {
+      "id": "pig_3_003",
+      "word": "PIG",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "Pink farm friend that says oink",
+      "difficulty": "easy",
+      "emoji": "🐷",
+      "image": "assets/images/words/3_letter/pig.png"
+    },
+    {
+      "id": "cow_3_004",
+      "word": "COW",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "Says moo and gives us milk",
+      "difficulty": "easy",
+      "emoji": "🐮",
+      "image": "assets/images/words/3_letter/cow.png"
+    },
+    {
+      "id": "hen_3_005",
+      "word": "HEN",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "A mommy chicken that lays eggs",
+      "difficulty": "easy",
+      "emoji": "🐔",
+      "image": "assets/images/words/3_letter/hen.png"
+    },
+    {
+      "id": "fox_3_006",
+      "word": "FOX",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "Orange animal with a fluffy tail",
+      "difficulty": "easy",
+      "emoji": "🦊",
+      "image": "assets/images/words/3_letter/fox.png"
+    },
+    {
+      "id": "bat_3_007",
+      "word": "BAT",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "Flies at night and sleeps upside down",
+      "difficulty": "easy",
+      "emoji": "🦇",
+      "image": "assets/images/words/3_letter/bat.png"
+    },
+    {
+      "id": "owl_3_008",
+      "word": "OWL",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "Night bird that says hoot hoot",
+      "difficulty": "easy",
+      "emoji": "🦉",
+      "image": "assets/images/words/3_letter/owl.png"
+    },
+    {
+      "id": "ant_3_009",
+      "word": "ANT",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "Tiny bug that works very hard",
+      "difficulty": "easy",
+      "emoji": "🐜",
+      "image": "assets/images/words/3_letter/ant.png"
+    },
+    {
+      "id": "bee_3_010",
+      "word": "BEE",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "Buzzes around and makes honey",
+      "difficulty": "easy",
+      "emoji": "🐝",
+      "image": "assets/images/words/3_letter/bee.png"
+    },
+    {
+      "id": "yak_3_011",
+      "word": "YAK",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "Big hairy animal with horns",
+      "difficulty": "easy",
+      "emoji": "🐃",
+      "image": "assets/images/words/3_letter/yak.png"
+    },
+    {
+      "id": "emu_3_012",
+      "word": "EMU",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "Tall bird that runs but cannot fly",
+      "difficulty": "easy",
+      "emoji": "🐦",
+      "image": "assets/images/words/3_letter/emu.png"
+    },
+    {
+      "id": "ape_3_013",
+      "word": "APE",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "A big monkey with no tail",
+      "difficulty": "easy",
+      "emoji": "🦍",
+      "image": "assets/images/words/3_letter/ape.png"
+    },
+    {
+      "id": "ram_3_014",
+      "word": "RAM",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "A daddy sheep with curly horns",
+      "difficulty": "easy",
+      "emoji": "🐏",
+      "image": "assets/images/words/3_letter/ram.png"
+    },
+    {
+      "id": "gnu_3_015",
+      "word": "GNU",
+      "length": 3,
+      "category": "Animals",
+      "hintText": "Wild animal that runs in big herds",
+      "difficulty": "easy",
+      "emoji": "🐂",
+      "image": "assets/images/words/3_letter/gnu.png"
+    },
+    {
+      "id": "jam_3_001",
+      "word": "JAM",
+      "length": 3,
+      "category": "Food",
+      "hintText": "Sweet fruit spread for toast",
+      "difficulty": "easy",
+      "emoji": "🍓",
+      "image": "assets/images/words/3_letter/jam.png"
+    },
+    {
+      "id": "pie_3_002",
+      "word": "PIE",
+      "length": 3,
+      "category": "Food",
+      "hintText": "Baked treat with fruit inside",
+      "difficulty": "easy",
+      "emoji": "🥧",
+      "image": "assets/images/words/3_letter/pie.png"
+    },
+    {
+      "id": "egg_3_003",
+      "word": "EGG",
+      "length": 3,
+      "category": "Food",
+      "hintText": "Comes from a hen, has a yolk",
+      "difficulty": "easy",
+      "emoji": "🥚",
+      "image": "assets/images/words/3_letter/egg.png"
+    },
+    {
+      "id": "bun_3_004",
+      "word": "BUN",
+      "length": 3,
+      "category": "Food",
+      "hintText": "Soft round bread",
+      "difficulty": "easy",
+      "emoji": "🍞",
+      "image": "assets/images/words/3_letter/bun.png"
+    },
+    {
+      "id": "yam_3_005",
+      "word": "YAM",
+      "length": 3,
+      "category": "Food",
+      "hintText": "Orange veggie like a sweet potato",
+      "difficulty": "easy",
+      "emoji": "🍠",
+      "image": "assets/images/words/3_letter/yam.png"
+    },
+    {
+      "id": "tea_3_006",
+      "word": "TEA",
+      "length": 3,
+      "category": "Food",
+      "hintText": "Warm drink made with leaves",
+      "difficulty": "easy",
+      "emoji": "🍵",
+      "image": "assets/images/words/3_letter/tea.png"
+    },
+    {
+      "id": "nut_3_007",
+      "word": "NUT",
+      "length": 3,
+      "category": "Food",
+      "hintText": "Crunchy snack with a hard shell",
+      "difficulty": "easy",
+      "emoji": "🥜",
+      "image": "assets/images/words/3_letter/nut.png"
+    },
+    {
+      "id": "pea_3_008",
+      "word": "PEA",
+      "length": 3,
+      "category": "Food",
+      "hintText": "Tiny green ball in a pod",
+      "difficulty": "easy",
+      "emoji": "🫛",
+      "image": "assets/images/words/3_letter/pea.png"
+    },
+    {
+      "id": "fig_3_009",
+      "word": "FIG",
+      "length": 3,
+      "category": "Food",
+      "hintText": "Soft purple fruit with tiny seeds",
+      "difficulty": "easy",
+      "emoji": "🫐",
+      "image": "assets/images/words/3_letter/fig.png"
+    },
+    {
+      "id": "ham_3_010",
+      "word": "HAM",
+      "length": 3,
+      "category": "Food",
+      "hintText": "Pink meat for sandwiches",
+      "difficulty": "easy",
+      "emoji": "🍖",
+      "image": "assets/images/words/3_letter/ham.png"
+    },
+    {
+      "id": "oat_3_011",
+      "word": "OAT",
+      "length": 3,
+      "category": "Food",
+      "hintText": "Grain for warm morning porridge",
+      "difficulty": "easy",
+      "emoji": "🌾",
+      "image": "assets/images/words/3_letter/oat.png"
+    },
+    {
+      "id": "cod_3_012",
+      "word": "COD",
+      "length": 3,
+      "category": "Food",
+      "hintText": "A fish we can eat",
+      "difficulty": "easy",
+      "emoji": "🐟",
+      "image": "assets/images/words/3_letter/cod.png"
+    },
+    {
+      "id": "dip_3_013",
+      "word": "DIP",
+      "length": 3,
+      "category": "Food",
+      "hintText": "Sauce to dunk chips into",
+      "difficulty": "easy",
+      "emoji": "🥣",
+      "image": "assets/images/words/3_letter/dip.png"
+    },
+    {
+      "id": "sea_3_001",
+      "word": "SEA",
+      "length": 3,
+      "category": "Nature",
+      "hintText": "Big salty water with waves",
+      "difficulty": "easy",
+      "emoji": "🌊",
+      "image": "assets/images/words/3_letter/sea.png"
+    },
+    {
+      "id": "mud_3_002",
+      "word": "MUD",
+      "length": 3,
+      "category": "Nature",
+      "hintText": "Wet squishy dirt",
+      "difficulty": "easy",
+      "emoji": "🟤",
+      "image": "assets/images/words/3_letter/mud.png"
+    },
+    {
+      "id": "log_3_003",
+      "word": "LOG",
+      "length": 3,
+      "category": "Nature",
+      "hintText": "A piece of a fallen tree",
+      "difficulty": "easy",
+      "emoji": "🪵",
+      "image": "assets/images/words/3_letter/log.png"
+    },
+    {
+      "id": "bud_3_004",
+      "word": "BUD",
+      "length": 3,
+      "category": "Nature",
+      "hintText": "A flower before it opens",
+      "difficulty": "easy",
+      "emoji": "🌱",
+      "image": "assets/images/words/3_letter/bud.png"
+    },
+    {
+      "id": "oak_3_005",
+      "word": "OAK",
+      "length": 3,
+      "category": "Nature",
+      "hintText": "Big tree that grows acorns",
+      "difficulty": "easy",
+      "emoji": "🌳",
+      "image": "assets/images/words/3_letter/oak.png"
+    },
+    {
+      "id": "ivy_3_006",
+      "word": "IVY",
+      "length": 3,
+      "category": "Nature",
+      "hintText": "Green plant that climbs walls",
+      "difficulty": "easy",
+      "emoji": "🌿",
+      "image": "assets/images/words/3_letter/ivy.png"
+    },
+    {
+      "id": "hay_3_007",
+      "word": "HAY",
+      "length": 3,
+      "category": "Nature",
+      "hintText": "Dry grass that horses eat",
+      "difficulty": "easy",
+      "emoji": "🌾",
+      "image": "assets/images/words/3_letter/hay.png"
+    },
+    {
+      "id": "web_3_008",
+      "word": "WEB",
+      "length": 3,
+      "category": "Nature",
+      "hintText": "A spider spins it",
+      "difficulty": "easy",
+      "emoji": "🕸️",
+      "image": "assets/images/words/3_letter/web.png"
+    },
+    {
+      "id": "fir_3_009",
+      "word": "FIR",
+      "length": 3,
+      "category": "Nature",
+      "hintText": "Pointy tree that stays green",
+      "difficulty": "easy",
+      "emoji": "🌲",
+      "image": "assets/images/words/3_letter/fir.png"
+    },
+    {
+      "id": "den_3_010",
+      "word": "DEN",
+      "length": 3,
+      "category": "Nature",
+      "hintText": "A cozy home for a fox or bear",
+      "difficulty": "easy",
+      "emoji": "🕳️",
+      "image": "assets/images/words/3_letter/den.png"
+    },
+    {
+      "id": "sun_3_001",
+      "word": "SUN",
+      "length": 3,
+      "category": "Weather",
+      "hintText": "Bright and warm in the sky",
+      "difficulty": "easy",
+      "emoji": "☀️",
+      "image": "assets/images/words/3_letter/sun.png"
+    },
+    {
+      "id": "sky_3_002",
+      "word": "SKY",
+      "length": 3,
+      "category": "Weather",
+      "hintText": "Blue above us where clouds float",
+      "difficulty": "easy",
+      "emoji": "🌤️",
+      "image": "assets/images/words/3_letter/sky.png"
+    },
+    {
+      "id": "fog_3_003",
+      "word": "FOG",
+      "length": 3,
+      "category": "Weather",
+      "hintText": "Cloudy air that is hard to see through",
+      "difficulty": "easy",
+      "emoji": "🌫️",
+      "image": "assets/images/words/3_letter/fog.png"
+    },
+    {
+      "id": "ice_3_004",
+      "word": "ICE",
+      "length": 3,
+      "category": "Weather",
+      "hintText": "Frozen water, very cold",
+      "difficulty": "easy",
+      "emoji": "🧊",
+      "image": "assets/images/words/3_letter/ice.png"
+    },
+    {
+      "id": "hot_3_005",
+      "word": "HOT",
+      "length": 3,
+      "category": "Weather",
+      "hintText": "How a sunny summer day feels",
+      "difficulty": "easy",
+      "emoji": "🥵",
+      "image": "assets/images/words/3_letter/hot.png"
+    },
+    {
+      "id": "wet_3_006",
+      "word": "WET",
+      "length": 3,
+      "category": "Weather",
+      "hintText": "How you feel after rain",
+      "difficulty": "easy",
+      "emoji": "💦",
+      "image": "assets/images/words/3_letter/wet.png"
+    },
+    {
+      "id": "dew_3_007",
+      "word": "DEW",
+      "length": 3,
+      "category": "Weather",
+      "hintText": "Little water drops on grass in the morning",
+      "difficulty": "easy",
+      "emoji": "💧",
+      "image": "assets/images/words/3_letter/dew.png"
+    },
+    {
+      "id": "dry_3_008",
+      "word": "DRY",
+      "length": 3,
+      "category": "Weather",
+      "hintText": "Not wet at all",
+      "difficulty": "easy",
+      "emoji": "🏜️",
+      "image": "assets/images/words/3_letter/dry.png"
+    },
+    {
+      "id": "ray_3_009",
+      "word": "RAY",
+      "length": 3,
+      "category": "Weather",
+      "hintText": "A beam of warm sunshine",
+      "difficulty": "easy",
+      "emoji": "🌅",
+      "image": "assets/images/words/3_letter/ray.png"
+    },
+    {
+      "id": "bed_3_001",
+      "word": "BED",
+      "length": 3,
+      "category": "Home",
+      "hintText": "Where you sleep at night",
+      "difficulty": "easy",
+      "emoji": "🛏️",
+      "image": "assets/images/words/3_letter/bed.png"
+    },
+    {
+      "id": "mop_3_002",
+      "word": "MOP",
+      "length": 3,
+      "category": "Home",
+      "hintText": "Cleans the wet floor",
+      "difficulty": "easy",
+      "emoji": "🧽",
+      "image": "assets/images/words/3_letter/mop.png"
+    },
+    {
+      "id": "rug_3_003",
+      "word": "RUG",
+      "length": 3,
+      "category": "Home",
+      "hintText": "Soft mat on the floor",
+      "difficulty": "easy",
+      "emoji": "🟫",
+      "image": "assets/images/words/3_letter/rug.png"
+    },
+    {
+      "id": "pot_3_004",
+      "word": "POT",
+      "length": 3,
+      "category": "Home",
+      "hintText": "Cook soup in it",
+      "difficulty": "easy",
+      "emoji": "🍲",
+      "image": "assets/images/words/3_letter/pot.png"
+    },
+    {
+      "id": "pan_3_005",
+      "word": "PAN",
+      "length": 3,
+      "category": "Home",
+      "hintText": "Flat pot to fry eggs",
+      "difficulty": "easy",
+      "emoji": "🍳",
+      "image": "assets/images/words/3_letter/pan.png"
+    },
+    {
+      "id": "cup_3_006",
+      "word": "CUP",
+      "length": 3,
+      "category": "Home",
+      "hintText": "You drink from it",
+      "difficulty": "easy",
+      "emoji": "☕",
+      "image": "assets/images/words/3_letter/cup.png"
+    },
+    {
+      "id": "mat_3_007",
+      "word": "MAT",
+      "length": 3,
+      "category": "Home",
+      "hintText": "Wipe your feet on it",
+      "difficulty": "easy",
+      "emoji": "🚪",
+      "image": "assets/images/words/3_letter/mat.png"
+    },
+    {
+      "id": "tub_3_008",
+      "word": "TUB",
+      "length": 3,
+      "category": "Home",
+      "hintText": "Take a bubble bath in it",
+      "difficulty": "easy",
+      "emoji": "🛁",
+      "image": "assets/images/words/3_letter/tub.png"
+    },
+    {
+      "id": "fan_3_009",
+      "word": "FAN",
+      "length": 3,
+      "category": "Home",
+      "hintText": "Spins to keep you cool",
+      "difficulty": "easy",
+      "emoji": "🌀",
+      "image": "assets/images/words/3_letter/fan.png"
+    },
+    {
+      "id": "key_3_010",
+      "word": "KEY",
+      "length": 3,
+      "category": "Home",
+      "hintText": "Opens a locked door",
+      "difficulty": "easy",
+      "emoji": "🔑",
+      "image": "assets/images/words/3_letter/key.png"
+    },
+    {
+      "id": "jug_3_011",
+      "word": "JUG",
+      "length": 3,
+      "category": "Home",
+      "hintText": "Holds juice or water for pouring",
+      "difficulty": "easy",
+      "emoji": "🫗",
+      "image": "assets/images/words/3_letter/jug.png"
+    },
+    {
+      "id": "tap_3_012",
+      "word": "TAP",
+      "length": 3,
+      "category": "Home",
+      "hintText": "Turn it on for water",
+      "difficulty": "easy",
+      "emoji": "🚰",
+      "image": "assets/images/words/3_letter/tap.png"
+    },
+    {
+      "id": "bin_3_013",
+      "word": "BIN",
+      "length": 3,
+      "category": "Home",
+      "hintText": "Put trash in it",
+      "difficulty": "easy",
+      "emoji": "🗑️",
+      "image": "assets/images/words/3_letter/bin.png"
+    },
+    {
+      "id": "red_3_001",
+      "word": "RED",
+      "length": 3,
+      "category": "Colors",
+      "hintText": "The color of a fire truck",
+      "difficulty": "easy",
+      "emoji": "🔴",
+      "image": "assets/images/words/3_letter/red.png"
+    },
+    {
+      "id": "tan_3_002",
+      "word": "TAN",
+      "length": 3,
+      "category": "Colors",
+      "hintText": "Light brown like sand",
+      "difficulty": "easy",
+      "emoji": "🟤",
+      "image": "assets/images/words/3_letter/tan.png"
+    },
+    {
+      "id": "ink_3_003",
+      "word": "INK",
+      "length": 3,
+      "category": "Colors",
+      "hintText": "Colored liquid inside a pen",
+      "difficulty": "easy",
+      "emoji": "🖋️",
+      "image": "assets/images/words/3_letter/ink.png"
+    },
+    {
+      "id": "dye_3_004",
+      "word": "DYE",
+      "length": 3,
+      "category": "Colors",
+      "hintText": "Used to change a shirt's color",
+      "difficulty": "easy",
+      "emoji": "🎨",
+      "image": "assets/images/words/3_letter/dye.png"
+    },
+    {
+      "id": "hue_3_005",
+      "word": "HUE",
+      "length": 3,
+      "category": "Colors",
+      "hintText": "Another word for a color",
+      "difficulty": "easy",
+      "emoji": "🌈",
+      "image": "assets/images/words/3_letter/hue.png"
+    },
+    {
+      "id": "wax_3_006",
+      "word": "WAX",
+      "length": 3,
+      "category": "Colors",
+      "hintText": "Crayons are made of it",
+      "difficulty": "easy",
+      "emoji": "🖍️",
+      "image": "assets/images/words/3_letter/wax.png"
+    },
+    {
+      "id": "arm_3_001",
+      "word": "ARM",
+      "length": 3,
+      "category": "Body",
+      "hintText": "Your hand is at the end of it",
+      "difficulty": "easy",
+      "emoji": "💪",
+      "image": "assets/images/words/3_letter/arm.png"
+    },
+    {
+      "id": "leg_3_002",
+      "word": "LEG",
+      "length": 3,
+      "category": "Body",
+      "hintText": "You stand and walk on it",
+      "difficulty": "easy",
+      "emoji": "🦵",
+      "image": "assets/images/words/3_letter/leg.png"
+    },
+    {
+      "id": "ear_3_003",
+      "word": "EAR",
+      "length": 3,
+      "category": "Body",
+      "hintText": "You hear with it",
+      "difficulty": "easy",
+      "emoji": "👂",
+      "image": "assets/images/words/3_letter/ear.png"
+    },
+    {
+      "id": "eye_3_004",
+      "word": "EYE",
+      "length": 3,
+      "category": "Body",
+      "hintText": "You see with it",
+      "difficulty": "easy",
+      "emoji": "👁️",
+      "image": "assets/images/words/3_letter/eye.png"
+    },
+    {
+      "id": "lip_3_005",
+      "word": "LIP",
+      "length": 3,
+      "category": "Body",
+      "hintText": "Part of your mouth for smiling",
+      "difficulty": "easy",
+      "emoji": "👄",
+      "image": "assets/images/words/3_letter/lip.png"
+    },
+    {
+      "id": "toe_3_006",
+      "word": "TOE",
+      "length": 3,
+      "category": "Body",
+      "hintText": "You have ten on your feet",
+      "difficulty": "easy",
+      "emoji": "🦶",
+      "image": "assets/images/words/3_letter/toe.png"
+    },
+    {
+      "id": "hip_3_007",
+      "word": "HIP",
+      "length": 3,
+      "category": "Body",
+      "hintText": "Put your hands on it and dance",
+      "difficulty": "easy",
+      "emoji": "🕺",
+      "image": "assets/images/words/3_letter/hip.png"
+    },
+    {
+      "id": "jaw_3_008",
+      "word": "JAW",
+      "length": 3,
+      "category": "Body",
+      "hintText": "Moves when you chew",
+      "difficulty": "easy",
+      "emoji": "😬",
+      "image": "assets/images/words/3_letter/jaw.png"
+    },
+    {
+      "id": "lap_3_009",
+      "word": "LAP",
+      "length": 3,
+      "category": "Body",
+      "hintText": "Where a cat sits when you sit down",
+      "difficulty": "easy",
+      "emoji": "🪑",
+      "image": "assets/images/words/3_letter/lap.png"
+    },
+    {
+      "id": "rib_3_010",
+      "word": "RIB",
+      "length": 3,
+      "category": "Body",
+      "hintText": "Bones that keep your heart safe",
+      "difficulty": "easy",
+      "emoji": "🩻",
+      "image": "assets/images/words/3_letter/rib.png"
+    },
+    {
+      "id": "toy_3_001",
+      "word": "TOY",
+      "length": 3,
+      "category": "Toys",
+      "hintText": "Something fun to play with",
+      "difficulty": "easy",
+      "emoji": "🧸",
+      "image": "assets/images/words/3_letter/toy.png"
+    },
+    {
+      "id": "top_3_002",
+      "word": "TOP",
+      "length": 3,
+      "category": "Toys",
+      "hintText": "A toy that spins and spins",
+      "difficulty": "easy",
+      "emoji": "🪀",
+      "image": "assets/images/words/3_letter/top.png"
+    },
+    {
+      "id": "kit_3_003",
+      "word": "KIT",
+      "length": 3,
+      "category": "Toys",
+      "hintText": "A box of parts to build something",
+      "difficulty": "easy",
+      "emoji": "🧰",
+      "image": "assets/images/words/3_letter/kit.png"
+    },
+    {
+      "id": "tag_3_004",
+      "word": "TAG",
+      "length": 3,
+      "category": "Toys",
+      "hintText": "A chasing game: you're it!",
+      "difficulty": "easy",
+      "emoji": "🏃",
+      "image": "assets/images/words/3_letter/tag.png"
+    },
+    {
+      "id": "peg_3_005",
+      "word": "PEG",
+      "length": 3,
+      "category": "Toys",
+      "hintText": "Wooden piece for a peg board",
+      "difficulty": "easy",
+      "emoji": "📌",
+      "image": "assets/images/words/3_letter/peg.png"
+    },
+    {
+      "id": "spy_3_006",
+      "word": "SPY",
+      "length": 3,
+      "category": "Toys",
+      "hintText": "I ___ with my little eye",
+      "difficulty": "easy",
+      "emoji": "🕵️",
+      "image": "assets/images/words/3_letter/spy.png"
+    },
+    {
+      "id": "box_3_007",
+      "word": "BOX",
+      "length": 3,
+      "category": "Toys",
+      "hintText": "Store your toys in it",
+      "difficulty": "easy",
+      "emoji": "📦",
+      "image": "assets/images/words/3_letter/box.png"
+    },
+    {
+      "id": "bus_3_001",
+      "word": "BUS",
+      "length": 3,
+      "category": "Transport",
+      "hintText": "Big yellow ride to school",
+      "difficulty": "easy",
+      "emoji": "🚌",
+      "image": "assets/images/words/3_letter/bus.png"
+    },
+    {
+      "id": "car_3_002",
+      "word": "CAR",
+      "length": 3,
+      "category": "Transport",
+      "hintText": "Four wheels, drives on roads",
+      "difficulty": "easy",
+      "emoji": "🚗",
+      "image": "assets/images/words/3_letter/car.png"
+    },
+    {
+      "id": "van_3_003",
+      "word": "VAN",
+      "length": 3,
+      "category": "Transport",
+      "hintText": "Big car for lots of people",
+      "difficulty": "easy",
+      "emoji": "🚐",
+      "image": "assets/images/words/3_letter/van.png"
+    },
+    {
+      "id": "cab_3_004",
+      "word": "CAB",
+      "length": 3,
+      "category": "Transport",
+      "hintText": "A taxi that you call",
+      "difficulty": "easy",
+      "emoji": "🚕",
+      "image": "assets/images/words/3_letter/cab.png"
+    },
+    {
+      "id": "jet_3_005",
+      "word": "JET",
+      "length": 3,
+      "category": "Transport",
+      "hintText": "Very fast airplane",
+      "difficulty": "easy",
+      "emoji": "✈️",
+      "image": "assets/images/words/3_letter/jet.png"
+    },
+    {
+      "id": "sub_3_006",
+      "word": "SUB",
+      "length": 3,
+      "category": "Transport",
+      "hintText": "Boat that goes under the sea",
+      "difficulty": "easy",
+      "emoji": "🌊",
+      "image": "assets/images/words/3_letter/sub.png"
+    },
+    {
+      "id": "tug_3_007",
+      "word": "TUG",
+      "length": 3,
+      "category": "Transport",
+      "hintText": "Small boat that pulls big ships",
+      "difficulty": "easy",
+      "emoji": "🚢",
+      "image": "assets/images/words/3_letter/tug.png"
+    },
+    {
+      "id": "ski_3_008",
+      "word": "SKI",
+      "length": 3,
+      "category": "Transport",
+      "hintText": "Slide down snowy hills on it",
+      "difficulty": "easy",
+      "emoji": "⛷️",
+      "image": "assets/images/words/3_letter/ski.png"
+    },
+    {
+      "id": "pen_3_001",
+      "word": "PEN",
+      "length": 3,
+      "category": "School",
+      "hintText": "Write with ink",
+      "difficulty": "easy",
+      "emoji": "🖊️",
+      "image": "assets/images/words/3_letter/pen.png"
+    },
+    {
+      "id": "map_3_002",
+      "word": "MAP",
+      "length": 3,
+      "category": "School",
+      "hintText": "Shows where places are",
+      "difficulty": "easy",
+      "emoji": "🗺️",
+      "image": "assets/images/words/3_letter/map.png"
+    },
+    {
+      "id": "bag_3_003",
+      "word": "BAG",
+      "length": 3,
+      "category": "School",
+      "hintText": "Carry your books in it",
+      "difficulty": "easy",
+      "emoji": "🎒",
+      "image": "assets/images/words/3_letter/bag.png"
+    },
+    {
+      "id": "art_3_004",
+      "word": "ART",
+      "length": 3,
+      "category": "School",
+      "hintText": "Painting and drawing class",
+      "difficulty": "easy",
+      "emoji": "🎨",
+      "image": "assets/images/words/3_letter/art.png"
+    },
+    {
+      "id": "gym_3_005",
+      "word": "GYM",
+      "length": 3,
+      "category": "School",
+      "hintText": "Room for sports and games",
+      "difficulty": "easy",
+      "emoji": "🏀",
+      "image": "assets/images/words/3_letter/gym.png"
+    },
+    {
+      "id": "sum_3_006",
+      "word": "SUM",
+      "length": 3,
+      "category": "School",
+      "hintText": "Add numbers to get it",
+      "difficulty": "easy",
+      "emoji": "➕",
+      "image": "assets/images/words/3_letter/sum.png"
+    },
+    {
+      "id": "pad_3_007",
+      "word": "PAD",
+      "length": 3,
+      "category": "School",
+      "hintText": "Paper to write notes on",
+      "difficulty": "easy",
+      "emoji": "📝",
+      "image": "assets/images/words/3_letter/pad.png"
+    },
+    {
+      "id": "lab_3_008",
+      "word": "LAB",
+      "length": 3,
+      "category": "School",
+      "hintText": "Room for science experiments",
+      "difficulty": "easy",
+      "emoji": "🧪",
+      "image": "assets/images/words/3_letter/lab.png"
+    },
+    {
+      "id": "nap_3_009",
+      "word": "NAP",
+      "length": 3,
+      "category": "School",
+      "hintText": "A short rest time",
+      "difficulty": "easy",
+      "emoji": "😴",
+      "image": "assets/images/words/3_letter/nap.png"
+    },
+    {
+      "id": "frog_4_001",
+      "word": "FROG",
+      "length": 4,
+      "category": "Animals",
+      "hintText": "Hops and says ribbit",
+      "difficulty": "easy",
+      "emoji": "🐸",
+      "image": "assets/images/words/4_letter/frog.png"
+    },
+    {
+      "id": "bear_4_002",
+      "word": "BEAR",
+      "length": 4,
+      "category": "Animals",
+      "hintText": "Big furry animal that loves honey",
+      "difficulty": "easy",
+      "emoji": "🐻",
+      "image": "assets/images/words/4_letter/bear.png"
+    },
+    {
+      "id": "lion_4_003",
+      "word": "LION",
+      "length": 4,
+      "category": "Animals",
+      "hintText": "King of the jungle that roars",
+      "difficulty": "easy",
+      "emoji": "🦁",
+      "image": "assets/images/words/4_letter/lion.png"
+    },
+    {
+      "id": "duck_4_004",
+      "word": "DUCK",
+      "length": 4,
+      "category": "Animals",
+      "hintText": "Swims in ponds and says quack",
+      "difficulty": "easy",
+      "emoji": "🦆",
+      "image": "assets/images/words/4_letter/duck.png"
+    },
+    {
+      "id": "fish_4_005",
+      "word": "FISH",
+      "length": 4,
+      "category": "Animals",
+      "hintText": "Swims in water with fins",
+      "difficulty": "easy",
+      "emoji": "🐠",
+      "image": "assets/images/words/4_letter/fish.png"
+    },
+    {
+      "id": "goat_4_006",
+      "word": "GOAT",
+      "length": 4,
+      "category": "Animals",
+      "hintText": "Farm animal with a little beard",
+      "difficulty": "medium",
+      "emoji": "🐐",
+      "image": "assets/images/words/4_letter/goat.png"
+    },
+    {
+      "id": "seal_4_007",
+      "word": "SEAL",
+      "length": 4,
+      "category": "Animals",
+      "hintText": "Claps its flippers and swims",
+      "difficulty": "medium",
+      "emoji": "🦭",
+      "image": "assets/images/words/4_letter/seal.png"
+    },
+    {
+      "id": "deer_4_008",
+      "word": "DEER",
+      "length": 4,
+      "category": "Animals",
+      "hintText": "Forest animal with antlers",
+      "difficulty": "medium",
+      "emoji": "🦌",
+      "image": "assets/images/words/4_letter/deer.png"
+    },
+    {
+      "id": "crab_4_009",
+      "word": "CRAB",
+      "length": 4,
+      "category": "Animals",
+      "hintText": "Walks sideways on the beach",
+      "difficulty": "medium",
+      "emoji": "🦀",
+      "image": "assets/images/words/4_letter/crab.png"
+    },
+    {
+      "id": "lamb_4_010",
+      "word": "LAMB",
+      "length": 4,
+      "category": "Animals",
+      "hintText": "A baby sheep",
+      "difficulty": "medium",
+      "emoji": "🐑",
+      "image": "assets/images/words/4_letter/lamb.png"
+    },
+    {
+      "id": "cake_4_001",
+      "word": "CAKE",
+      "length": 4,
+      "category": "Food",
+      "hintText": "Sweet treat with candles for birthdays",
+      "difficulty": "easy",
+      "emoji": "🎂",
+      "image": "assets/images/words/4_letter/cake.png"
+    },
+    {
+      "id": "milk_4_002",
+      "word": "MILK",
+      "length": 4,
+      "category": "Food",
+      "hintText": "White drink from a cow",
+      "difficulty": "easy",
+      "emoji": "🥛",
+      "image": "assets/images/words/4_letter/milk.png"
+    },
+    {
+      "id": "rice_4_003",
+      "word": "RICE",
+      "length": 4,
+      "category": "Food",
+      "hintText": "Tiny white grains in a bowl",
+      "difficulty": "medium",
+      "emoji": "🍚",
+      "image": "assets/images/words/4_letter/rice.png"
+    },
+    {
+      "id": "pear_4_004",
+      "word": "PEAR",
+      "length": 4,
+      "category": "Food",
+      "hintText": "Green fruit shaped like a bell",
+      "difficulty": "medium",
+      "emoji": "🍐",
+      "image": "assets/images/words/4_letter/pear.png"
+    },
+    {
+      "id": "corn_4_005",
+      "word": "CORN",
+      "length": 4,
+      "category": "Food",
+      "hintText": "Yellow kernels on a cob",
+      "difficulty": "easy",
+      "emoji": "🌽",
+      "image": "assets/images/words/4_letter/corn.png"
+    },
+    {
+      "id": "soup_4_006",
+      "word": "SOUP",
+      "length": 4,
+      "category": "Food",
+      "hintText": "Warm and eaten with a spoon",
+      "difficulty": "easy",
+      "emoji": "🍜",
+      "image": "assets/images/words/4_letter/soup.png"
+    },
+    {
+      "id": "bean_4_007",
+      "word": "BEAN",
+      "length": 4,
+      "category": "Food",
+      "hintText": "Little seed in a pod you can eat",
+      "difficulty": "medium",
+      "emoji": "🫘",
+      "image": "assets/images/words/4_letter/bean.png"
+    },
+    {
+      "id": "taco_4_008",
+      "word": "TACO",
+      "length": 4,
+      "category": "Food",
+      "hintText": "Crunchy shell with filling",
+      "difficulty": "medium",
+      "emoji": "🌮",
+      "image": "assets/images/words/4_letter/taco.png"
+    },
+    {
+      "id": "kiwi_4_009",
+      "word": "KIWI",
+      "length": 4,
+      "category": "Food",
+      "hintText": "Fuzzy brown fruit, green inside",
+      "difficulty": "medium",
+      "emoji": "🥝",
+      "image": "assets/images/words/4_letter/kiwi.png"
+    },
+    {
+      "id": "chip_4_010",
+      "word": "CHIP",
+      "length": 4,
+      "category": "Food",
+      "hintText": "Thin crunchy snack",
+      "difficulty": "medium",
+      "emoji": "🍟",
+      "image": "assets/images/words/4_letter/chip.png"
+    },
+    {
+      "id": "tree_4_001",
+      "word": "TREE",
+      "length": 4,
+      "category": "Nature",
+      "hintText": "Tall plant with leaves and branches",
+      "difficulty": "easy",
+      "emoji": "🌳",
+      "image": "assets/images/words/4_letter/tree.png"
+    },
+    {
+      "id": "leaf_4_002",
+      "word": "LEAF",
+      "length": 4,
+      "category": "Nature",
+      "hintText": "Green part of a tree that falls in fall",
+      "difficulty": "medium",
+      "emoji": "🍃",
+      "image": "assets/images/words/4_letter/leaf.png"
+    },
+    {
+      "id": "rock_4_003",
+      "word": "ROCK",
+      "length": 4,
+      "category": "Nature",
+      "hintText": "Hard and found on the ground",
+      "difficulty": "medium",
+      "emoji": "🪨",
+      "image": "assets/images/words/4_letter/rock.png"
+    },
+    {
+      "id": "pond_4_004",
+      "word": "POND",
+      "length": 4,
+      "category": "Nature",
+      "hintText": "Small lake where frogs live",
+      "difficulty": "medium",
+      "emoji": "🪷",
+      "image": "assets/images/words/4_letter/pond.png"
+    },
+    {
+      "id": "sand_4_005",
+      "word": "SAND",
+      "length": 4,
+      "category": "Nature",
+      "hintText": "You build castles with it at the beach",
+      "difficulty": "medium",
+      "emoji": "🏖️",
+      "image": "assets/images/words/4_letter/sand.png"
+    },
+    {
+      "id": "hill_4_006",
+      "word": "HILL",
+      "length": 4,
+      "category": "Nature",
+      "hintText": "A small mountain to roll down",
+      "difficulty": "medium",
+      "emoji": "⛰️",
+      "image": "assets/images/words/4_letter/hill.png"
+    },
+    {
+      "id": "seed_4_007",
+      "word": "SEED",
+      "length": 4,
+      "category": "Nature",
+      "hintText": "Plant it and a flower grows",
+      "difficulty": "medium",
+      "emoji": "🌱",
+      "image": "assets/images/words/4_letter/seed.png"
+    },
+    {
+      "id": "fern_4_008",
+      "word": "FERN",
+      "length": 4,
+      "category": "Nature",
+      "hintText": "Feathery green forest plant",
+      "difficulty": "medium",
+      "emoji": "🌿",
+      "image": "assets/images/words/4_letter/fern.png"
+    },
+    {
+      "id": "lake_4_009",
+      "word": "LAKE",
+      "length": 4,
+      "category": "Nature",
+      "hintText": "Big water surrounded by land",
+      "difficulty": "medium",
+      "emoji": "🏞️",
+      "image": "assets/images/words/4_letter/lake.png"
+    },
+    {
+      "id": "moss_4_010",
+      "word": "MOSS",
+      "length": 4,
+      "category": "Nature",
+      "hintText": "Soft green fuzz on rocks",
+      "difficulty": "medium",
+      "emoji": "🍀",
+      "image": "assets/images/words/4_letter/moss.png"
+    },
+    {
+      "id": "door_4_001",
+      "word": "DOOR",
+      "length": 4,
+      "category": "Home",
+      "hintText": "Open it to go in or out",
+      "difficulty": "easy",
+      "emoji": "🚪",
+      "image": "assets/images/words/4_letter/door.png"
+    },
+    {
+      "id": "lamp_4_002",
+      "word": "LAMP",
+      "length": 4,
+      "category": "Home",
+      "hintText": "Gives light at night",
+      "difficulty": "easy",
+      "emoji": "💡",
+      "image": "assets/images/words/4_letter/lamp.png"
+    },
+    {
+      "id": "sofa_4_003",
+      "word": "SOFA",
+      "length": 4,
+      "category": "Home",
+      "hintText": "Comfy seat for the whole family",
+      "difficulty": "medium",
+      "emoji": "🛋️",
+      "image": "assets/images/words/4_letter/sofa.png"
+    },
+    {
+      "id": "bath_4_004",
+      "word": "BATH",
+      "length": 4,
+      "category": "Home",
+      "hintText": "Wash in warm water in the tub",
+      "difficulty": "medium",
+      "emoji": "🛀",
+      "image": "assets/images/words/4_letter/bath.png"
+    },
+    {
+      "id": "sink_4_005",
+      "word": "SINK",
+      "length": 4,
+      "category": "Home",
+      "hintText": "Wash your hands here",
+      "difficulty": "medium",
+      "emoji": "🚰",
+      "image": "assets/images/words/4_letter/sink.png"
+    },
+    {
+      "id": "dish_4_006",
+      "word": "DISH",
+      "length": 4,
+      "category": "Home",
+      "hintText": "Put food on it",
+      "difficulty": "medium",
+      "emoji": "🍽️",
+      "image": "assets/images/words/4_letter/dish.png"
+    },
+    {
+      "id": "fork_4_007",
+      "word": "FORK",
+      "length": 4,
+      "category": "Home",
+      "hintText": "Pokes food to eat it",
+      "difficulty": "medium",
+      "emoji": "🍴",
+      "image": "assets/images/words/4_letter/fork.png"
+    },
+    {
+      "id": "bowl_4_008",
+      "word": "BOWL",
+      "length": 4,
+      "category": "Home",
+      "hintText": "Holds cereal or soup",
+      "difficulty": "medium",
+      "emoji": "🥣",
+      "image": "assets/images/words/4_letter/bowl.png"
+    },
+    {
+      "id": "soap_4_009",
+      "word": "SOAP",
+      "length": 4,
+      "category": "Home",
+      "hintText": "Makes bubbles to wash hands",
+      "difficulty": "medium",
+      "emoji": "🧼",
+      "image": "assets/images/words/4_letter/soap.png"
+    },
+    {
+      "id": "roof_4_010",
+      "word": "ROOF",
+      "length": 4,
+      "category": "Home",
+      "hintText": "Top of a house",
+      "difficulty": "medium",
+      "emoji": "🏠",
+      "image": "assets/images/words/4_letter/roof.png"
+    },
+    {
+      "id": "blue_4_001",
+      "word": "BLUE",
+      "length": 4,
+      "category": "Colors",
+      "hintText": "The color of the sky",
+      "difficulty": "easy",
+      "emoji": "🔵",
+      "image": "assets/images/words/4_letter/blue.png"
+    },
+    {
+      "id": "pink_4_002",
+      "word": "PINK",
+      "length": 4,
+      "category": "Colors",
+      "hintText": "The color of a flamingo",
+      "difficulty": "easy",
+      "emoji": "🩷",
+      "image": "assets/images/words/4_letter/pink.png"
+    },
+    {
+      "id": "gold_4_003",
+      "word": "GOLD",
+      "length": 4,
+      "category": "Colors",
+      "hintText": "Shiny like a treasure coin",
+      "difficulty": "medium",
+      "emoji": "🥇",
+      "image": "assets/images/words/4_letter/gold.png"
+    },
+    {
+      "id": "gray_4_004",
+      "word": "GRAY",
+      "length": 4,
+      "category": "Colors",
+      "hintText": "The color of an elephant",
+      "difficulty": "medium",
+      "emoji": "🩶",
+      "image": "assets/images/words/4_letter/gray.png"
+    },
+    {
+      "id": "teal_4_005",
+      "word": "TEAL",
+      "length": 4,
+      "category": "Colors",
+      "hintText": "A blue-green color",
+      "difficulty": "medium",
+      "emoji": "🦚",
+      "image": "assets/images/words/4_letter/teal.png"
+    },
+    {
+      "id": "navy_4_006",
+      "word": "NAVY",
+      "length": 4,
+      "category": "Colors",
+      "hintText": "Very dark blue",
+      "difficulty": "medium",
+      "emoji": "⚓",
+      "image": "assets/images/words/4_letter/navy.png"
+    },
+    {
+      "id": "rose_4_007",
+      "word": "ROSE",
+      "length": 4,
+      "category": "Colors",
+      "hintText": "A soft pinky red like a flower",
+      "difficulty": "medium",
+      "emoji": "🌹",
+      "image": "assets/images/words/4_letter/rose.png"
+    },
+    {
+      "id": "ruby_4_008",
+      "word": "RUBY",
+      "length": 4,
+      "category": "Colors",
+      "hintText": "Deep red like a jewel",
+      "difficulty": "medium",
+      "emoji": "💎",
+      "image": "assets/images/words/4_letter/ruby.png"
+    },
+    {
+      "id": "jade_4_009",
+      "word": "JADE",
+      "length": 4,
+      "category": "Colors",
+      "hintText": "A pretty green stone color",
+      "difficulty": "medium",
+      "emoji": "💚",
+      "image": "assets/images/words/4_letter/jade.png"
+    },
+    {
+      "id": "lime_4_010",
+      "word": "LIME",
+      "length": 4,
+      "category": "Colors",
+      "hintText": "Bright yellow-green",
+      "difficulty": "medium",
+      "emoji": "🍈",
+      "image": "assets/images/words/4_letter/lime.png"
+    },
+    {
+      "id": "hand_4_001",
+      "word": "HAND",
+      "length": 4,
+      "category": "Body",
+      "hintText": "You wave hello with it",
+      "difficulty": "easy",
+      "emoji": "✋",
+      "image": "assets/images/words/4_letter/hand.png"
+    },
+    {
+      "id": "foot_4_002",
+      "word": "FOOT",
+      "length": 4,
+      "category": "Body",
+      "hintText": "You put a shoe on it",
+      "difficulty": "easy",
+      "emoji": "🦶",
+      "image": "assets/images/words/4_letter/foot.png"
+    },
+    {
+      "id": "nose_4_003",
+      "word": "NOSE",
+      "length": 4,
+      "category": "Body",
+      "hintText": "You smell with it",
+      "difficulty": "easy",
+      "emoji": "👃",
+      "image": "assets/images/words/4_letter/nose.png"
+    },
+    {
+      "id": "hair_4_004",
+      "word": "HAIR",
+      "length": 4,
+      "category": "Body",
+      "hintText": "Grows on your head",
+      "difficulty": "medium",
+      "emoji": "💇",
+      "image": "assets/images/words/4_letter/hair.png"
+    },
+    {
+      "id": "knee_4_005",
+      "word": "KNEE",
+      "length": 4,
+      "category": "Body",
+      "hintText": "Bends in the middle of your leg",
+      "difficulty": "medium",
+      "emoji": "🦵",
+      "image": "assets/images/words/4_letter/knee.png"
+    },
+    {
+      "id": "chin_4_006",
+      "word": "CHIN",
+      "length": 4,
+      "category": "Body",
+      "hintText": "Under your mouth",
+      "difficulty": "medium",
+      "emoji": "🙂",
+      "image": "assets/images/words/4_letter/chin.png"
+    },
+    {
+      "id": "neck_4_007",
+      "word": "NECK",
+      "length": 4,
+      "category": "Body",
+      "hintText": "Holds up your head",
+      "difficulty": "medium",
+      "emoji": "🦒",
+      "image": "assets/images/words/4_letter/neck.png"
+    },
+    {
+      "id": "head_4_008",
+      "word": "HEAD",
+      "length": 4,
+      "category": "Body",
+      "hintText": "Wear a hat on it",
+      "difficulty": "medium",
+      "emoji": "🧢",
+      "image": "assets/images/words/4_letter/head.png"
+    },
+    {
+      "id": "nail_4_009",
+      "word": "NAIL",
+      "length": 4,
+      "category": "Body",
+      "hintText": "Hard tip on your finger",
+      "difficulty": "medium",
+      "emoji": "💅",
+      "image": "assets/images/words/4_letter/nail.png"
+    },
+    {
+      "id": "heel_4_010",
+      "word": "HEEL",
+      "length": 4,
+      "category": "Body",
+      "hintText": "Back part of your foot",
+      "difficulty": "medium",
+      "emoji": "👠",
+      "image": "assets/images/words/4_letter/heel.png"
+    },
+    {
+      "id": "ball_4_001",
+      "word": "BALL",
+      "length": 4,
+      "category": "Toys",
+      "hintText": "Round toy to throw and kick",
+      "difficulty": "easy",
+      "emoji": "⚽",
+      "image": "assets/images/words/4_letter/ball.png"
+    },
+    {
+      "id": "doll_4_002",
+      "word": "DOLL",
+      "length": 4,
+      "category": "Toys",
+      "hintText": "Toy friend you can dress up",
+      "difficulty": "medium",
+      "emoji": "🪆",
+      "image": "assets/images/words/4_letter/doll.png"
+    },
+    {
+      "id": "kite_4_003",
+      "word": "KITE",
+      "length": 4,
+      "category": "Toys",
+      "hintText": "Flies high on a windy day",
+      "difficulty": "easy",
+      "emoji": "🪁",
+      "image": "assets/images/words/4_letter/kite.png"
+    },
+    {
+      "id": "drum_4_004",
+      "word": "DRUM",
+      "length": 4,
+      "category": "Toys",
+      "hintText": "Bang it to make a beat",
+      "difficulty": "medium",
+      "emoji": "🥁",
+      "image": "assets/images/words/4_letter/drum.png"
+    },
+    {
+      "id": "yoyo_4_005",
+      "word": "YOYO",
+      "length": 4,
+      "category": "Toys",
+      "hintText": "Goes up and down on a string",
+      "difficulty": "medium",
+      "emoji": "🪀",
+      "image": "assets/images/words/4_letter/yoyo.png"
+    },
+    {
+      "id": "game_4_006",
+      "word": "GAME",
+      "length": 4,
+      "category": "Toys",
+      "hintText": "Something you play to have fun",
+      "difficulty": "medium",
+      "emoji": "🎲",
+      "image": "assets/images/words/4_letter/game.png"
+    },
+    {
+      "id": "hoop_4_007",
+      "word": "HOOP",
+      "length": 4,
+      "category": "Toys",
+      "hintText": "Spin it around your waist",
+      "difficulty": "medium",
+      "emoji": "⭕",
+      "image": "assets/images/words/4_letter/hoop.png"
+    },
+    {
+      "id": "bell_4_008",
+      "word": "BELL",
+      "length": 4,
+      "category": "Toys",
+      "hintText": "Ring ring ding dong",
+      "difficulty": "medium",
+      "emoji": "🔔",
+      "image": "assets/images/words/4_letter/bell.png"
+    },
+    {
+      "id": "dice_4_009",
+      "word": "DICE",
+      "length": 4,
+      "category": "Toys",
+      "hintText": "Roll it to get a number",
+      "difficulty": "medium",
+      "emoji": "🎲",
+      "image": "assets/images/words/4_letter/dice.png"
+    },
+    {
+      "id": "card_4_010",
+      "word": "CARD",
+      "length": 4,
+      "category": "Toys",
+      "hintText": "Pick one from the deck to play",
+      "difficulty": "medium",
+      "emoji": "🃏",
+      "image": "assets/images/words/4_letter/card.png"
+    },
+    {
+      "id": "boat_4_001",
+      "word": "BOAT",
+      "length": 4,
+      "category": "Transport",
+      "hintText": "Floats on water",
+      "difficulty": "easy",
+      "emoji": "⛵",
+      "image": "assets/images/words/4_letter/boat.png"
+    },
+    {
+      "id": "ship_4_002",
+      "word": "SHIP",
+      "length": 4,
+      "category": "Transport",
+      "hintText": "Very big boat on the ocean",
+      "difficulty": "medium",
+      "emoji": "🚢",
+      "image": "assets/images/words/4_letter/ship.png"
+    },
+    {
+      "id": "tram_4_003",
+      "word": "TRAM",
+      "length": 4,
+      "category": "Transport",
+      "hintText": "Train that rides in the street",
+      "difficulty": "medium",
+      "emoji": "🚋",
+      "image": "assets/images/words/4_letter/tram.png"
+    },
+    {
+      "id": "taxi_4_004",
+      "word": "TAXI",
+      "length": 4,
+      "category": "Transport",
+      "hintText": "Yellow car you pay to ride",
+      "difficulty": "medium",
+      "emoji": "🚕",
+      "image": "assets/images/words/4_letter/taxi.png"
+    },
+    {
+      "id": "jeep_4_005",
+      "word": "JEEP",
+      "length": 4,
+      "category": "Transport",
+      "hintText": "Tough car for bumpy roads",
+      "difficulty": "medium",
+      "emoji": "🚙",
+      "image": "assets/images/words/4_letter/jeep.png"
+    },
+    {
+      "id": "bike_4_006",
+      "word": "BIKE",
+      "length": 4,
+      "category": "Transport",
+      "hintText": "Two wheels and pedals",
+      "difficulty": "easy",
+      "emoji": "🚲",
+      "image": "assets/images/words/4_letter/bike.png"
+    },
+    {
+      "id": "raft_4_007",
+      "word": "RAFT",
+      "length": 4,
+      "category": "Transport",
+      "hintText": "Flat boat made of logs",
+      "difficulty": "medium",
+      "emoji": "🛶",
+      "image": "assets/images/words/4_letter/raft.png"
+    },
+    {
+      "id": "cart_4_008",
+      "word": "CART",
+      "length": 4,
+      "category": "Transport",
+      "hintText": "Push it at the grocery store",
+      "difficulty": "medium",
+      "emoji": "🛒",
+      "image": "assets/images/words/4_letter/cart.png"
+    },
+    {
+      "id": "sled_4_009",
+      "word": "SLED",
+      "length": 4,
+      "category": "Transport",
+      "hintText": "Slide down snowy hills",
+      "difficulty": "medium",
+      "emoji": "🛷",
+      "image": "assets/images/words/4_letter/sled.png"
+    },
+    {
+      "id": "kart_4_010",
+      "word": "KART",
+      "length": 4,
+      "category": "Transport",
+      "hintText": "Small racing car",
+      "difficulty": "medium",
+      "emoji": "🏎️",
+      "image": "assets/images/words/4_letter/kart.png"
+    },
+    {
+      "id": "rain_4_001",
+      "word": "RAIN",
+      "length": 4,
+      "category": "Weather",
+      "hintText": "Water falling from clouds",
+      "difficulty": "easy",
+      "emoji": "🌧️",
+      "image": "assets/images/words/4_letter/rain.png"
+    },
+    {
+      "id": "snow_4_002",
+      "word": "SNOW",
+      "length": 4,
+      "category": "Weather",
+      "hintText": "White and cold, make a snowman",
+      "difficulty": "easy",
+      "emoji": "❄️",
+      "image": "assets/images/words/4_letter/snow.png"
+    },
+    {
+      "id": "wind_4_003",
+      "word": "WIND",
+      "length": 4,
+      "category": "Weather",
+      "hintText": "Moving air that blows kites",
+      "difficulty": "medium",
+      "emoji": "🌬️",
+      "image": "assets/images/words/4_letter/wind.png"
+    },
+    {
+      "id": "hail_4_004",
+      "word": "HAIL",
+      "length": 4,
+      "category": "Weather",
+      "hintText": "Little balls of ice from the sky",
+      "difficulty": "medium",
+      "emoji": "🌨️",
+      "image": "assets/images/words/4_letter/hail.png"
+    },
+    {
+      "id": "mist_4_005",
+      "word": "MIST",
+      "length": 4,
+      "category": "Weather",
+      "hintText": "Light, tiny drops in the air",
+      "difficulty": "medium",
+      "emoji": "🌫️",
+      "image": "assets/images/words/4_letter/mist.png"
+    },
+    {
+      "id": "gust_4_006",
+      "word": "GUST",
+      "length": 4,
+      "category": "Weather",
+      "hintText": "A sudden puff of wind",
+      "difficulty": "medium",
+      "emoji": "💨",
+      "image": "assets/images/words/4_letter/gust.png"
+    },
+    {
+      "id": "heat_4_007",
+      "word": "HEAT",
+      "length": 4,
+      "category": "Weather",
+      "hintText": "Very warm summer feeling",
+      "difficulty": "medium",
+      "emoji": "🔥",
+      "image": "assets/images/words/4_letter/heat.png"
+    },
+    {
+      "id": "cold_4_008",
+      "word": "COLD",
+      "length": 4,
+      "category": "Weather",
+      "hintText": "Wear a coat when it is this",
+      "difficulty": "medium",
+      "emoji": "🥶",
+      "image": "assets/images/words/4_letter/cold.png"
+    },
+    {
+      "id": "warm_4_009",
+      "word": "WARM",
+      "length": 4,
+      "category": "Weather",
+      "hintText": "Cozy, not too hot",
+      "difficulty": "medium",
+      "emoji": "🧣",
+      "image": "assets/images/words/4_letter/warm.png"
+    },
+    {
+      "id": "cool_4_010",
+      "word": "COOL",
+      "length": 4,
+      "category": "Weather",
+      "hintText": "A little bit cold",
+      "difficulty": "medium",
+      "emoji": "😎",
+      "image": "assets/images/words/4_letter/cool.png"
+    },
+    {
+      "id": "book_4_001",
+      "word": "BOOK",
+      "length": 4,
+      "category": "School",
+      "hintText": "Has pages full of stories",
+      "difficulty": "easy",
+      "emoji": "📖",
+      "image": "assets/images/words/4_letter/book.png"
+    },
+    {
+      "id": "desk_4_002",
+      "word": "DESK",
+      "length": 4,
+      "category": "School",
+      "hintText": "Table where you do schoolwork",
+      "difficulty": "medium",
+      "emoji": "🪑",
+      "image": "assets/images/words/4_letter/desk.png"
+    },
+    {
+      "id": "glue_4_003",
+      "word": "GLUE",
+      "length": 4,
+      "category": "School",
+      "hintText": "Sticks paper together",
+      "difficulty": "medium",
+      "emoji": "🧴",
+      "image": "assets/images/words/4_letter/glue.png"
+    },
+    {
+      "id": "tape_4_004",
+      "word": "TAPE",
+      "length": 4,
+      "category": "School",
+      "hintText": "Sticky strip in a roll",
+      "difficulty": "medium",
+      "emoji": "🩹",
+      "image": "assets/images/words/4_letter/tape.png"
+    },
+    {
+      "id": "quiz_4_005",
+      "word": "QUIZ",
+      "length": 4,
+      "category": "School",
+      "hintText": "A short set of questions",
+      "difficulty": "medium",
+      "emoji": "❓",
+      "image": "assets/images/words/4_letter/quiz.png"
+    },
+    {
+      "id": "math_4_006",
+      "word": "MATH",
+      "length": 4,
+      "category": "School",
+      "hintText": "Learning about numbers",
+      "difficulty": "medium",
+      "emoji": "🔢",
+      "image": "assets/images/words/4_letter/math.png"
+    },
+    {
+      "id": "note_4_007",
+      "word": "NOTE",
+      "length": 4,
+      "category": "School",
+      "hintText": "A short written message",
+      "difficulty": "medium",
+      "emoji": "🗒️",
+      "image": "assets/images/words/4_letter/note.png"
+    },
+    {
+      "id": "page_4_008",
+      "word": "PAGE",
+      "length": 4,
+      "category": "School",
+      "hintText": "One sheet in a book",
+      "difficulty": "medium",
+      "emoji": "📄",
+      "image": "assets/images/words/4_letter/page.png"
+    },
+    {
+      "id": "word_4_009",
+      "word": "WORD",
+      "length": 4,
+      "category": "School",
+      "hintText": "Letters put together",
+      "difficulty": "medium",
+      "emoji": "🔤",
+      "image": "assets/images/words/4_letter/word.png"
+    },
+    {
+      "id": "clip_4_010",
+      "word": "CLIP",
+      "length": 4,
+      "category": "School",
+      "hintText": "Holds papers together",
+      "difficulty": "medium",
+      "emoji": "📎",
+      "image": "assets/images/words/4_letter/clip.png"
+    },
+    {
+      "id": "tiger_5_001",
+      "word": "TIGER",
+      "length": 5,
+      "category": "Animals",
+      "hintText": "Big orange cat with black stripes",
+      "difficulty": "easy",
+      "emoji": "🐯",
+      "image": "assets/images/words/5_letter/tiger.png"
+    },
+    {
+      "id": "zebra_5_002",
+      "word": "ZEBRA",
+      "length": 5,
+      "category": "Animals",
+      "hintText": "Horse with black and white stripes",
+      "difficulty": "easy",
+      "emoji": "🦓",
+      "image": "assets/images/words/5_letter/zebra.png"
+    },
+    {
+      "id": "horse_5_003",
+      "word": "HORSE",
+      "length": 5,
+      "category": "Animals",
+      "hintText": "You can ride it and it says neigh",
+      "difficulty": "easy",
+      "emoji": "🐴",
+      "image": "assets/images/words/5_letter/horse.png"
+    },
+    {
+      "id": "mouse_5_004",
+      "word": "MOUSE",
+      "length": 5,
+      "category": "Animals",
+      "hintText": "Tiny animal that loves cheese",
+      "difficulty": "easy",
+      "emoji": "🐭",
+      "image": "assets/images/words/5_letter/mouse.png"
+    },
+    {
+      "id": "sheep_5_005",
+      "word": "SHEEP",
+      "length": 5,
+      "category": "Animals",
+      "hintText": "Fluffy wool and says baa",
+      "difficulty": "medium",
+      "emoji": "🐑",
+      "image": "assets/images/words/5_letter/sheep.png"
+    },
+    {
+      "id": "panda_5_006",
+      "word": "PANDA",
+      "length": 5,
+      "category": "Animals",
+      "hintText": "Black and white bear that eats bamboo",
+      "difficulty": "medium",
+      "emoji": "🐼",
+      "image": "assets/images/words/5_letter/panda.png"
+    },
+    {
+      "id": "koala_5_007",
+      "word": "KOALA",
+      "length": 5,
+      "category": "Animals",
+      "hintText": "Sleepy animal that hugs trees",
+      "difficulty": "medium",
+      "emoji": "🐨",
+      "image": "assets/images/words/5_letter/koala.png"
+    },
+    {
+      "id": "camel_5_008",
+      "word": "CAMEL",
+      "length": 5,
+      "category": "Animals",
+      "hintText": "Desert animal with humps",
+      "difficulty": "medium",
+      "emoji": "🐫",
+      "image": "assets/images/words/5_letter/camel.png"
+    },
+    {
+      "id": "whale_5_009",
+      "word": "WHALE",
+      "length": 5,
+      "category": "Animals",
+      "hintText": "Biggest animal in the ocean",
+      "difficulty": "medium",
+      "emoji": "🐳",
+      "image": "assets/images/words/5_letter/whale.png"
+    },
+    {
+      "id": "otter_5_010",
+      "word": "OTTER",
+      "length": 5,
+      "category": "Animals",
+      "hintText": "Floats on its back holding hands",
+      "difficulty": "hard",
+      "emoji": "🦦",
+      "image": "assets/images/words/5_letter/otter.png"
+    },
+    {
+      "id": "apple_5_001",
+      "word": "APPLE",
+      "length": 5,
+      "category": "Food",
+      "hintText": "Red or green fruit",
+      "difficulty": "easy",
+      "emoji": "🍎",
+      "image": "assets/images/words/5_letter/apple.png"
+    },
+    {
+      "id": "bread_5_002",
+      "word": "BREAD",
+      "length": 5,
+      "category": "Food",
+      "hintText": "Slice it for a sandwich",
+      "difficulty": "medium",
+      "emoji": "🍞",
+      "image": "assets/images/words/5_letter/bread.png"
+    },
+    {
+      "id": "pizza_5_003",
+      "word": "PIZZA",
+      "length": 5,
+      "category": "Food",
+      "hintText": "Round with cheese, cut in slices",
+      "difficulty": "easy",
+      "emoji": "🍕",
+      "image": "assets/images/words/5_letter/pizza.png"
+    },
+    {
+      "id": "grape_5_004",
+      "word": "GRAPE",
+      "length": 5,
+      "category": "Food",
+      "hintText": "Small round fruit in bunches",
+      "difficulty": "medium",
+      "emoji": "🍇",
+      "image": "assets/images/words/5_letter/grape.png"
+    },
+    {
+      "id": "lemon_5_005",
+      "word": "LEMON",
+      "length": 5,
+      "category": "Food",
+      "hintText": "Yellow and very sour",
+      "difficulty": "medium",
+      "emoji": "🍋",
+      "image": "assets/images/words/5_letter/lemon.png"
+    },
+    {
+      "id": "mango_5_006",
+      "word": "MANGO",
+      "length": 5,
+      "category": "Food",
+      "hintText": "Sweet orange tropical fruit",
+      "difficulty": "medium",
+      "emoji": "🥭",
+      "image": "assets/images/words/5_letter/mango.png"
+    },
+    {
+      "id": "honey_5_007",
+      "word": "HONEY",
+      "length": 5,
+      "category": "Food",
+      "hintText": "Sweet and sticky, made by bees",
+      "difficulty": "medium",
+      "emoji": "🍯",
+      "image": "assets/images/words/5_letter/honey.png"
+    },
+    {
+      "id": "pasta_5_008",
+      "word": "PASTA",
+      "length": 5,
+      "category": "Food",
+      "hintText": "Noodles with sauce",
+      "difficulty": "medium",
+      "emoji": "🍝",
+      "image": "assets/images/words/5_letter/pasta.png"
+    },
+    {
+      "id": "toast_5_009",
+      "word": "TOAST",
+      "length": 5,
+      "category": "Food",
+      "hintText": "Warm crunchy bread",
+      "difficulty": "medium",
+      "emoji": "🍞",
+      "image": "assets/images/words/5_letter/toast.png"
+    },
+    {
+      "id": "melon_5_010",
+      "word": "MELON",
+      "length": 5,
+      "category": "Food",
+      "hintText": "Big juicy fruit with seeds",
+      "difficulty": "medium",
+      "emoji": "🍉",
+      "image": "assets/images/words/5_letter/melon.png"
+    },
+    {
+      "id": "river_5_001",
+      "word": "RIVER",
+      "length": 5,
+      "category": "Nature",
+      "hintText": "Long flowing water",
+      "difficulty": "medium",
+      "emoji": "🏞️",
+      "image": "assets/images/words/5_letter/river.png"
+    },
+    {
+      "id": "ocean_5_002",
+      "word": "OCEAN",
+      "length": 5,
+      "category": "Nature",
+      "hintText": "Huge salty water where whales live",
+      "difficulty": "medium",
+      "emoji": "🌊",
+      "image": "assets/images/words/5_letter/ocean.png"
+    },
+    {
+      "id": "beach_5_003",
+      "word": "BEACH",
+      "length": 5,
+      "category": "Nature",
+      "hintText": "Sandy place by the sea",
+      "difficulty": "easy",
+      "emoji": "🏖️",
+      "image": "assets/images/words/5_letter/beach.png"
+    },
+    {
+      "id": "plant_5_004",
+      "word": "PLANT",
+      "length": 5,
+      "category": "Nature",
+      "hintText": "Grows in a pot with water and sun",
+      "difficulty": "medium",
+      "emoji": "🪴",
+      "image": "assets/images/words/5_letter/plant.png"
+    },
+    {
+      "id": "grass_5_005",
+      "word": "GRASS",
+      "length": 5,
+      "category": "Nature",
+      "hintText": "Green and covers the lawn",
+      "difficulty": "medium",
+      "emoji": "🌱",
+      "image": "assets/images/words/5_letter/grass.png"
+    },
+    {
+      "id": "stone_5_006",
+      "word": "STONE",
+      "length": 5,
+      "category": "Nature",
+      "hintText": "A small rock",
+      "difficulty": "medium",
+      "emoji": "🪨",
+      "image": "assets/images/words/5_letter/stone.png"
+    },
+    {
+      "id": "shell_5_007",
+      "word": "SHELL",
+      "length": 5,
+      "category": "Nature",
+      "hintText": "Find it on the beach, a snail's home",
+      "difficulty": "medium",
+      "emoji": "🐚",
+      "image": "assets/images/words/5_letter/shell.png"
+    },
+    {
+      "id": "daisy_5_008",
+      "word": "DAISY",
+      "length": 5,
+      "category": "Nature",
+      "hintText": "White flower with a yellow middle",
+      "difficulty": "hard",
+      "emoji": "🌼",
+      "image": "assets/images/words/5_letter/daisy.png"
+    },
+    {
+      "id": "acorn_5_009",
+      "word": "ACORN",
+      "length": 5,
+      "category": "Nature",
+      "hintText": "A seed from an oak tree",
+      "difficulty": "hard",
+      "emoji": "🌰",
+      "image": "assets/images/words/5_letter/acorn.png"
+    },
+    {
+      "id": "field_5_010",
+      "word": "FIELD",
+      "length": 5,
+      "category": "Nature",
+      "hintText": "Big open land with grass",
+      "difficulty": "hard",
+      "emoji": "🌾",
+      "image": "assets/images/words/5_letter/field.png"
+    },
+    {
+      "id": "house_5_001",
+      "word": "HOUSE",
+      "length": 5,
+      "category": "Home",
+      "hintText": "A building where a family lives",
+      "difficulty": "easy",
+      "emoji": "🏠",
+      "image": "assets/images/words/5_letter/house.png"
+    },
+    {
+      "id": "chair_5_002",
+      "word": "CHAIR",
+      "length": 5,
+      "category": "Home",
+      "hintText": "You sit on it",
+      "difficulty": "easy",
+      "emoji": "🪑",
+      "image": "assets/images/words/5_letter/chair.png"
+    },
+    {
+      "id": "table_5_003",
+      "word": "TABLE",
+      "length": 5,
+      "category": "Home",
+      "hintText": "Eat dinner on it",
+      "difficulty": "medium",
+      "emoji": "🍽️",
+      "image": "assets/images/words/5_letter/table.png"
+    },
+    {
+      "id": "clock_5_004",
+      "word": "CLOCK",
+      "length": 5,
+      "category": "Home",
+      "hintText": "Tells the time, tick tock",
+      "difficulty": "medium",
+      "emoji": "⏰",
+      "image": "assets/images/words/5_letter/clock.png"
+    },
+    {
+      "id": "spoon_5_005",
+      "word": "SPOON",
+      "length": 5,
+      "category": "Home",
+      "hintText": "Eat soup with it",
+      "difficulty": "medium",
+      "emoji": "🥄",
+      "image": "assets/images/words/5_letter/spoon.png"
+    },
+    {
+      "id": "towel_5_006",
+      "word": "TOWEL",
+      "length": 5,
+      "category": "Home",
+      "hintText": "Dry off after a bath",
+      "difficulty": "medium",
+      "emoji": "🧺",
+      "image": "assets/images/words/5_letter/towel.png"
+    },
+    {
+      "id": "couch_5_007",
+      "word": "COUCH",
+      "length": 5,
+      "category": "Home",
+      "hintText": "Big soft seat in the living room",
+      "difficulty": "medium",
+      "emoji": "🛋️",
+      "image": "assets/images/words/5_letter/couch.png"
+    },
+    {
+      "id": "plate_5_008",
+      "word": "PLATE",
+      "length": 5,
+      "category": "Home",
+      "hintText": "Flat dish for food",
+      "difficulty": "medium",
+      "emoji": "🍽️",
+      "image": "assets/images/words/5_letter/plate.png"
+    },
+    {
+      "id": "shelf_5_009",
+      "word": "SHELF",
+      "length": 5,
+      "category": "Home",
+      "hintText": "Holds books on the wall",
+      "difficulty": "hard",
+      "emoji": "📚",
+      "image": "assets/images/words/5_letter/shelf.png"
+    },
+    {
+      "id": "broom_5_010",
+      "word": "BROOM",
+      "length": 5,
+      "category": "Home",
+      "hintText": "Sweeps the floor",
+      "difficulty": "hard",
+      "emoji": "🧹",
+      "image": "assets/images/words/5_letter/broom.png"
+    },
+    {
+      "id": "green_5_001",
+      "word": "GREEN",
+      "length": 5,
+      "category": "Colors",
+      "hintText": "The color of grass",
+      "difficulty": "easy",
+      "emoji": "🟢",
+      "image": "assets/images/words/5_letter/green.png"
+    },
+    {
+      "id": "black_5_002",
+      "word": "BLACK",
+      "length": 5,
+      "category": "Colors",
+      "hintText": "The color of the night sky",
+      "difficulty": "easy",
+      "emoji": "⚫",
+      "image": "assets/images/words/5_letter/black.png"
+    },
+    {
+      "id": "white_5_003",
+      "word": "WHITE",
+      "length": 5,
+      "category": "Colors",
+      "hintText": "The color of snow",
+      "difficulty": "easy",
+      "emoji": "⚪",
+      "image": "assets/images/words/5_letter/white.png"
+    },
+    {
+      "id": "brown_5_004",
+      "word": "BROWN",
+      "length": 5,
+      "category": "Colors",
+      "hintText": "The color of chocolate",
+      "difficulty": "medium",
+      "emoji": "🟤",
+      "image": "assets/images/words/5_letter/brown.png"
+    },
+    {
+      "id": "coral_5_005",
+      "word": "CORAL",
+      "length": 5,
+      "category": "Colors",
+      "hintText": "Pinky orange like the reef",
+      "difficulty": "hard",
+      "emoji": "🪸",
+      "image": "assets/images/words/5_letter/coral.png"
+    },
+    {
+      "id": "lilac_5_006",
+      "word": "LILAC",
+      "length": 5,
+      "category": "Colors",
+      "hintText": "Light purple like a flower",
+      "difficulty": "hard",
+      "emoji": "💜",
+      "image": "assets/images/words/5_letter/lilac.png"
+    },
+    {
+      "id": "amber_5_007",
+      "word": "AMBER",
+      "length": 5,
+      "category": "Colors",
+      "hintText": "Warm golden orange",
+      "difficulty": "hard",
+      "emoji": "🟠",
+      "image": "assets/images/words/5_letter/amber.png"
+    },
+    {
+      "id": "cream_5_008",
+      "word": "CREAM",
+      "length": 5,
+      "category": "Colors",
+      "hintText": "Soft off-white color",
+      "difficulty": "hard",
+      "emoji": "🍦",
+      "image": "assets/images/words/5_letter/cream.png"
+    },
+    {
+      "id": "peach_5_009",
+      "word": "PEACH",
+      "length": 5,
+      "category": "Colors",
+      "hintText": "Soft orange-pink color",
+      "difficulty": "hard",
+      "emoji": "🍑",
+      "image": "assets/images/words/5_letter/peach.png"
+    },
+    {
+      "id": "olive_5_010",
+      "word": "OLIVE",
+      "length": 5,
+      "category": "Colors",
+      "hintText": "Dark yellow-green",
+      "difficulty": "hard",
+      "emoji": "🫒",
+      "image": "assets/images/words/5_letter/olive.png"
+    },
+    {
+      "id": "heart_5_001",
+      "word": "HEART",
+      "length": 5,
+      "category": "Body",
+      "hintText": "Goes thump thump in your chest",
+      "difficulty": "easy",
+      "emoji": "❤️",
+      "image": "assets/images/words/5_letter/heart.png"
+    },
+    {
+      "id": "tooth_5_002",
+      "word": "TOOTH",
+      "length": 5,
+      "category": "Body",
+      "hintText": "White and you brush it",
+      "difficulty": "easy",
+      "emoji": "🦷",
+      "image": "assets/images/words/5_letter/tooth.png"
+    },
+    {
+      "id": "mouth_5_003",
+      "word": "MOUTH",
+      "length": 5,
+      "category": "Body",
+      "hintText": "You eat and talk with it",
+      "difficulty": "medium",
+      "emoji": "👄",
+      "image": "assets/images/words/5_letter/mouth.png"
+    },
+    {
+      "id": "cheek_5_004",
+      "word": "CHEEK",
+      "length": 5,
+      "category": "Body",
+      "hintText": "Turns pink when you smile",
+      "difficulty": "hard",
+      "emoji": "😊",
+      "image": "assets/images/words/5_letter/cheek.png"
+    },
+    {
+      "id": "thumb_5_005",
+      "word": "THUMB",
+      "length": 5,
+      "category": "Body",
+      "hintText": "Give a thumbs up with it",
+      "difficulty": "medium",
+      "emoji": "👍",
+      "image": "assets/images/words/5_letter/thumb.png"
+    },
+    {
+      "id": "elbow_5_006",
+      "word": "ELBOW",
+      "length": 5,
+      "category": "Body",
+      "hintText": "Bends in the middle of your arm",
+      "difficulty": "hard",
+      "emoji": "💪",
+      "image": "assets/images/words/5_letter/elbow.png"
+    },
+    {
+      "id": "ankle_5_007",
+      "word": "ANKLE",
+      "length": 5,
+      "category": "Body",
+      "hintText": "Joins your foot to your leg",
+      "difficulty": "hard",
+      "emoji": "🦶",
+      "image": "assets/images/words/5_letter/ankle.png"
+    },
+    {
+      "id": "wrist_5_008",
+      "word": "WRIST",
+      "length": 5,
+      "category": "Body",
+      "hintText": "Wear a watch on it",
+      "difficulty": "hard",
+      "emoji": "⌚",
+      "image": "assets/images/words/5_letter/wrist.png"
+    },
+    {
+      "id": "brain_5_009",
+      "word": "BRAIN",
+      "length": 5,
+      "category": "Body",
+      "hintText": "You think with it",
+      "difficulty": "hard",
+      "emoji": "🧠",
+      "image": "assets/images/words/5_letter/brain.png"
+    },
+    {
+      "id": "chest_5_010",
+      "word": "CHEST",
+      "length": 5,
+      "category": "Body",
+      "hintText": "Front of your body under your neck",
+      "difficulty": "hard",
+      "emoji": "🫁",
+      "image": "assets/images/words/5_letter/chest.png"
+    },
+    {
+      "id": "block_5_001",
+      "word": "BLOCK",
+      "length": 5,
+      "category": "Toys",
+      "hintText": "Stack them to build a tower",
+      "difficulty": "medium",
+      "emoji": "🧱",
+      "image": "assets/images/words/5_letter/block.png"
+    },
+    {
+      "id": "teddy_5_002",
+      "word": "TEDDY",
+      "length": 5,
+      "category": "Toys",
+      "hintText": "A soft bear to cuddle",
+      "difficulty": "easy",
+      "emoji": "🧸",
+      "image": "assets/images/words/5_letter/teddy.png"
+    },
+    {
+      "id": "robot_5_003",
+      "word": "ROBOT",
+      "length": 5,
+      "category": "Toys",
+      "hintText": "Toy machine that beeps and moves",
+      "difficulty": "easy",
+      "emoji": "🤖",
+      "image": "assets/images/words/5_letter/robot.png"
+    },
+    {
+      "id": "swing_5_004",
+      "word": "SWING",
+      "length": 5,
+      "category": "Toys",
+      "hintText": "Go back and forth at the park",
+      "difficulty": "medium",
+      "emoji": "🛝",
+      "image": "assets/images/words/5_letter/swing.png"
+    },
+    {
+      "id": "slide_5_005",
+      "word": "SLIDE",
+      "length": 5,
+      "category": "Toys",
+      "hintText": "Whee! Go down it at the park",
+      "difficulty": "medium",
+      "emoji": "🛝",
+      "image": "assets/images/words/5_letter/slide.png"
+    },
+    {
+      "id": "kazoo_5_006",
+      "word": "KAZOO",
+      "length": 5,
+      "category": "Toys",
+      "hintText": "Hum into it to make a buzzy sound",
+      "difficulty": "hard",
+      "emoji": "🎺",
+      "image": "assets/images/words/5_letter/kazoo.png"
+    },
+    {
+      "id": "beads_5_007",
+      "word": "BEADS",
+      "length": 5,
+      "category": "Toys",
+      "hintText": "Put them on a string for a necklace",
+      "difficulty": "hard",
+      "emoji": "📿",
+      "image": "assets/images/words/5_letter/beads.png"
+    },
+    {
+      "id": "chess_5_008",
+      "word": "CHESS",
+      "length": 5,
+      "category": "Toys",
+      "hintText": "Board game with kings and queens",
+      "difficulty": "hard",
+      "emoji": "♟️",
+      "image": "assets/images/words/5_letter/chess.png"
+    },
+    {
+      "id": "piano_5_009",
+      "word": "PIANO",
+      "length": 5,
+      "category": "Toys",
+      "hintText": "Press the keys to make music",
+      "difficulty": "medium",
+      "emoji": "🎹",
+      "image": "assets/images/words/5_letter/piano.png"
+    },
+    {
+      "id": "flute_5_010",
+      "word": "FLUTE",
+      "length": 5,
+      "category": "Toys",
+      "hintText": "Blow into it to play a tune",
+      "difficulty": "hard",
+      "emoji": "🪈",
+      "image": "assets/images/words/5_letter/flute.png"
+    },
+    {
+      "id": "train_5_001",
+      "word": "TRAIN",
+      "length": 5,
+      "category": "Transport",
+      "hintText": "Choo choo on the tracks",
+      "difficulty": "easy",
+      "emoji": "🚂",
+      "image": "assets/images/words/5_letter/train.png"
+    },
+    {
+      "id": "plane_5_002",
+      "word": "PLANE",
+      "length": 5,
+      "category": "Transport",
+      "hintText": "Flies high in the sky",
+      "difficulty": "easy",
+      "emoji": "✈️",
+      "image": "assets/images/words/5_letter/plane.png"
+    },
+    {
+      "id": "truck_5_003",
+      "word": "TRUCK",
+      "length": 5,
+      "category": "Transport",
+      "hintText": "Big car that carries heavy things",
+      "difficulty": "medium",
+      "emoji": "🚚",
+      "image": "assets/images/words/5_letter/truck.png"
+    },
+    {
+      "id": "wagon_5_004",
+      "word": "WAGON",
+      "length": 5,
+      "category": "Transport",
+      "hintText": "Pull it with a handle",
+      "difficulty": "hard",
+      "emoji": "🛻",
+      "image": "assets/images/words/5_letter/wagon.png"
+    },
+    {
+      "id": "ferry_5_005",
+      "word": "FERRY",
+      "length": 5,
+      "category": "Transport",
+      "hintText": "Boat that carries cars across water",
+      "difficulty": "hard",
+      "emoji": "⛴️",
+      "image": "assets/images/words/5_letter/ferry.png"
+    },
+    {
+      "id": "yacht_5_006",
+      "word": "YACHT",
+      "length": 5,
+      "category": "Transport",
+      "hintText": "Fancy sailing boat",
+      "difficulty": "hard",
+      "emoji": "🛥️",
+      "image": "assets/images/words/5_letter/yacht.png"
+    },
+    {
+      "id": "canoe_5_007",
+      "word": "CANOE",
+      "length": 5,
+      "category": "Transport",
+      "hintText": "Paddle it down a river",
+      "difficulty": "hard",
+      "emoji": "🛶",
+      "image": "assets/images/words/5_letter/canoe.png"
+    },
+    {
+      "id": "kayak_5_008",
+      "word": "KAYAK",
+      "length": 5,
+      "category": "Transport",
+      "hintText": "Small boat with a double paddle",
+      "difficulty": "hard",
+      "emoji": "🚣",
+      "image": "assets/images/words/5_letter/kayak.png"
+    },
+    {
+      "id": "coach_5_009",
+      "word": "COACH",
+      "length": 5,
+      "category": "Transport",
+      "hintText": "A big bus for long trips",
+      "difficulty": "hard",
+      "emoji": "🚌",
+      "image": "assets/images/words/5_letter/coach.png"
+    },
+    {
+      "id": "moped_5_010",
+      "word": "MOPED",
+      "length": 5,
+      "category": "Transport",
+      "hintText": "Small motorbike",
+      "difficulty": "hard",
+      "emoji": "🛵",
+      "image": "assets/images/words/5_letter/moped.png"
+    },
+    {
+      "id": "cloud_5_001",
+      "word": "CLOUD",
+      "length": 5,
+      "category": "Weather",
+      "hintText": "Fluffy and white in the sky",
+      "difficulty": "easy",
+      "emoji": "☁️",
+      "image": "assets/images/words/5_letter/cloud.png"
+    },
+    {
+      "id": "storm_5_002",
+      "word": "STORM",
+      "length": 5,
+      "category": "Weather",
+      "hintText": "Loud thunder and lots of rain",
+      "difficulty": "medium",
+      "emoji": "⛈️",
+      "image": "assets/images/words/5_letter/storm.png"
+    },
+    {
+      "id": "rainy_5_003",
+      "word": "RAINY",
+      "length": 5,
+      "category": "Weather",
+      "hintText": "Bring an umbrella on this day",
+      "difficulty": "medium",
+      "emoji": "☔",
+      "image": "assets/images/words/5_letter/rainy.png"
+    },
+    {
+      "id": "sunny_5_004",
+      "word": "SUNNY",
+      "length": 5,
+      "category": "Weather",
+      "hintText": "Bright day, wear sunglasses",
+      "difficulty": "easy",
+      "emoji": "🌞",
+      "image": "assets/images/words/5_letter/sunny.png"
+    },
+    {
+      "id": "windy_5_005",
+      "word": "WINDY",
+      "length": 5,
+      "category": "Weather",
+      "hintText": "Great day to fly a kite",
+      "difficulty": "medium",
+      "emoji": "🌬️",
+      "image": "assets/images/words/5_letter/windy.png"
+    },
+    {
+      "id": "frost_5_006",
+      "word": "FROST",
+      "length": 5,
+      "category": "Weather",
+      "hintText": "Icy sparkles on the window",
+      "difficulty": "hard",
+      "emoji": "❄️",
+      "image": "assets/images/words/5_letter/frost.png"
+    },
+    {
+      "id": "foggy_5_007",
+      "word": "FOGGY",
+      "length": 5,
+      "category": "Weather",
+      "hintText": "Hard to see far on this day",
+      "difficulty": "hard",
+      "emoji": "🌁",
+      "image": "assets/images/words/5_letter/foggy.png"
+    },
+    {
+      "id": "snowy_5_008",
+      "word": "SNOWY",
+      "length": 5,
+      "category": "Weather",
+      "hintText": "White everywhere, time to sled",
+      "difficulty": "medium",
+      "emoji": "☃️",
+      "image": "assets/images/words/5_letter/snowy.png"
+    },
+    {
+      "id": "sleet_5_009",
+      "word": "SLEET",
+      "length": 5,
+      "category": "Weather",
+      "hintText": "Rain and snow mixed together",
+      "difficulty": "hard",
+      "emoji": "🌨️",
+      "image": "assets/images/words/5_letter/sleet.png"
+    },
+    {
+      "id": "chill_5_010",
+      "word": "CHILL",
+      "length": 5,
+      "category": "Weather",
+      "hintText": "A little cold feeling",
+      "difficulty": "hard",
+      "emoji": "🧤",
+      "image": "assets/images/words/5_letter/chill.png"
+    },
+    {
+      "id": "chalk_5_001",
+      "word": "CHALK",
+      "length": 5,
+      "category": "School",
+      "hintText": "Draw on the board or sidewalk",
+      "difficulty": "hard",
+      "emoji": "🖍️",
+      "image": "assets/images/words/5_letter/chalk.png"
+    },
+    {
+      "id": "paper_5_002",
+      "word": "PAPER",
+      "length": 5,
+      "category": "School",
+      "hintText": "Write and draw on it",
+      "difficulty": "medium",
+      "emoji": "📃",
+      "image": "assets/images/words/5_letter/paper.png"
+    },
+    {
+      "id": "ruler_5_003",
+      "word": "RULER",
+      "length": 5,
+      "category": "School",
+      "hintText": "Measures how long things are",
+      "difficulty": "medium",
+      "emoji": "📏",
+      "image": "assets/images/words/5_letter/ruler.png"
+    },
+    {
+      "id": "paint_5_004",
+      "word": "PAINT",
+      "length": 5,
+      "category": "School",
+      "hintText": "Colorful and wet, use a brush",
+      "difficulty": "medium",
+      "emoji": "🖌️",
+      "image": "assets/images/words/5_letter/paint.png"
+    },
+    {
+      "id": "class_5_005",
+      "word": "CLASS",
+      "length": 5,
+      "category": "School",
+      "hintText": "A room full of students",
+      "difficulty": "hard",
+      "emoji": "🏫",
+      "image": "assets/images/words/5_letter/class.png"
+    },
+    {
+      "id": "lunch_5_006",
+      "word": "LUNCH",
+      "length": 5,
+      "category": "School",
+      "hintText": "Meal in the middle of the day",
+      "difficulty": "medium",
+      "emoji": "🥪",
+      "image": "assets/images/words/5_letter/lunch.png"
+    },
+    {
+      "id": "globe_5_007",
+      "word": "GLOBE",
+      "length": 5,
+      "category": "School",
+      "hintText": "A round map of the world",
+      "difficulty": "hard",
+      "emoji": "🌍",
+      "image": "assets/images/words/5_letter/globe.png"
+    },
+    {
+      "id": "music_5_008",
+      "word": "MUSIC",
+      "length": 5,
+      "category": "School",
+      "hintText": "Singing and playing songs",
+      "difficulty": "hard",
+      "emoji": "🎵",
+      "image": "assets/images/words/5_letter/music.png"
+    },
+    {
+      "id": "craft_5_009",
+      "word": "CRAFT",
+      "length": 5,
+      "category": "School",
+      "hintText": "Make something with your hands",
+      "difficulty": "hard",
+      "emoji": "✂️",
+      "image": "assets/images/words/5_letter/craft.png"
+    },
+    {
+      "id": "board_5_010",
+      "word": "BOARD",
+      "length": 5,
+      "category": "School",
+      "hintText": "The teacher writes on it",
+      "difficulty": "medium",
+      "emoji": "🧑‍🏫",
+      "image": "assets/images/words/5_letter/board.png"
+    }
+  ]
+}

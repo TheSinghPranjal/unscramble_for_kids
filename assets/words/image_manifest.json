@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "CAT",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/cat.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DOG",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/dog.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PIG",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/pig.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "COW",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/cow.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HEN",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/hen.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FOX",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/fox.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BAT",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/bat.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "OWL",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/owl.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "ANT",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/ant.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BEE",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/bee.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "YAK",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/yak.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "EMU",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/emu.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "APE",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/ape.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "RAM",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/ram.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "GNU",
+    "length": 3,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/3_letter/gnu.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "JAM",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/jam.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PIE",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/pie.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "EGG",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/egg.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BUN",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/bun.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "YAM",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/yam.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TEA",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/tea.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "NUT",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/nut.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PEA",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/pea.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FIG",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/fig.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HAM",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/ham.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "OAT",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/oat.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "COD",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/cod.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DIP",
+    "length": 3,
+    "category": "Food",
+    "expectedPath": "assets/images/words/3_letter/dip.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SEA",
+    "length": 3,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/3_letter/sea.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MUD",
+    "length": 3,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/3_letter/mud.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LOG",
+    "length": 3,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/3_letter/log.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BUD",
+    "length": 3,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/3_letter/bud.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "OAK",
+    "length": 3,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/3_letter/oak.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "IVY",
+    "length": 3,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/3_letter/ivy.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HAY",
+    "length": 3,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/3_letter/hay.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "WEB",
+    "length": 3,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/3_letter/web.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FIR",
+    "length": 3,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/3_letter/fir.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DEN",
+    "length": 3,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/3_letter/den.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SUN",
+    "length": 3,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/3_letter/sun.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SKY",
+    "length": 3,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/3_letter/sky.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FOG",
+    "length": 3,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/3_letter/fog.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "ICE",
+    "length": 3,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/3_letter/ice.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HOT",
+    "length": 3,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/3_letter/hot.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "WET",
+    "length": 3,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/3_letter/wet.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DEW",
+    "length": 3,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/3_letter/dew.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DRY",
+    "length": 3,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/3_letter/dry.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "RAY",
+    "length": 3,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/3_letter/ray.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BED",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/bed.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MOP",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/mop.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "RUG",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/rug.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "POT",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/pot.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PAN",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/pan.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CUP",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/cup.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MAT",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/mat.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TUB",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/tub.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FAN",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/fan.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "KEY",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/key.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "JUG",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/jug.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TAP",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/tap.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BIN",
+    "length": 3,
+    "category": "Home",
+    "expectedPath": "assets/images/words/3_letter/bin.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "RED",
+    "length": 3,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/3_letter/red.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TAN",
+    "length": 3,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/3_letter/tan.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "INK",
+    "length": 3,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/3_letter/ink.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DYE",
+    "length": 3,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/3_letter/dye.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HUE",
+    "length": 3,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/3_letter/hue.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "WAX",
+    "length": 3,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/3_letter/wax.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "ARM",
+    "length": 3,
+    "category": "Body",
+    "expectedPath": "assets/images/words/3_letter/arm.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LEG",
+    "length": 3,
+    "category": "Body",
+    "expectedPath": "assets/images/words/3_letter/leg.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "EAR",
+    "length": 3,
+    "category": "Body",
+    "expectedPath": "assets/images/words/3_letter/ear.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "EYE",
+    "length": 3,
+    "category": "Body",
+    "expectedPath": "assets/images/words/3_letter/eye.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LIP",
+    "length": 3,
+    "category": "Body",
+    "expectedPath": "assets/images/words/3_letter/lip.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TOE",
+    "length": 3,
+    "category": "Body",
+    "expectedPath": "assets/images/words/3_letter/toe.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HIP",
+    "length": 3,
+    "category": "Body",
+    "expectedPath": "assets/images/words/3_letter/hip.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "JAW",
+    "length": 3,
+    "category": "Body",
+    "expectedPath": "assets/images/words/3_letter/jaw.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LAP",
+    "length": 3,
+    "category": "Body",
+    "expectedPath": "assets/images/words/3_letter/lap.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "RIB",
+    "length": 3,
+    "category": "Body",
+    "expectedPath": "assets/images/words/3_letter/rib.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TOY",
+    "length": 3,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/3_letter/toy.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TOP",
+    "length": 3,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/3_letter/top.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "KIT",
+    "length": 3,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/3_letter/kit.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TAG",
+    "length": 3,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/3_letter/tag.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PEG",
+    "length": 3,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/3_letter/peg.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SPY",
+    "length": 3,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/3_letter/spy.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BOX",
+    "length": 3,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/3_letter/box.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BUS",
+    "length": 3,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/3_letter/bus.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CAR",
+    "length": 3,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/3_letter/car.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "VAN",
+    "length": 3,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/3_letter/van.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CAB",
+    "length": 3,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/3_letter/cab.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "JET",
+    "length": 3,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/3_letter/jet.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SUB",
+    "length": 3,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/3_letter/sub.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TUG",
+    "length": 3,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/3_letter/tug.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SKI",
+    "length": 3,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/3_letter/ski.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PEN",
+    "length": 3,
+    "category": "School",
+    "expectedPath": "assets/images/words/3_letter/pen.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MAP",
+    "length": 3,
+    "category": "School",
+    "expectedPath": "assets/images/words/3_letter/map.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BAG",
+    "length": 3,
+    "category": "School",
+    "expectedPath": "assets/images/words/3_letter/bag.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "ART",
+    "length": 3,
+    "category": "School",
+    "expectedPath": "assets/images/words/3_letter/art.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "GYM",
+    "length": 3,
+    "category": "School",
+    "expectedPath": "assets/images/words/3_letter/gym.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SUM",
+    "length": 3,
+    "category": "School",
+    "expectedPath": "assets/images/words/3_letter/sum.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PAD",
+    "length": 3,
+    "category": "School",
+    "expectedPath": "assets/images/words/3_letter/pad.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LAB",
+    "length": 3,
+    "category": "School",
+    "expectedPath": "assets/images/words/3_letter/lab.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "NAP",
+    "length": 3,
+    "category": "School",
+    "expectedPath": "assets/images/words/3_letter/nap.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FROG",
+    "length": 4,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/4_letter/frog.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BEAR",
+    "length": 4,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/4_letter/bear.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LION",
+    "length": 4,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/4_letter/lion.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DUCK",
+    "length": 4,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/4_letter/duck.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FISH",
+    "length": 4,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/4_letter/fish.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "GOAT",
+    "length": 4,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/4_letter/goat.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SEAL",
+    "length": 4,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/4_letter/seal.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DEER",
+    "length": 4,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/4_letter/deer.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CRAB",
+    "length": 4,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/4_letter/crab.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LAMB",
+    "length": 4,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/4_letter/lamb.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CAKE",
+    "length": 4,
+    "category": "Food",
+    "expectedPath": "assets/images/words/4_letter/cake.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MILK",
+    "length": 4,
+    "category": "Food",
+    "expectedPath": "assets/images/words/4_letter/milk.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "RICE",
+    "length": 4,
+    "category": "Food",
+    "expectedPath": "assets/images/words/4_letter/rice.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PEAR",
+    "length": 4,
+    "category": "Food",
+    "expectedPath": "assets/images/words/4_letter/pear.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CORN",
+    "length": 4,
+    "category": "Food",
+    "expectedPath": "assets/images/words/4_letter/corn.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SOUP",
+    "length": 4,
+    "category": "Food",
+    "expectedPath": "assets/images/words/4_letter/soup.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BEAN",
+    "length": 4,
+    "category": "Food",
+    "expectedPath": "assets/images/words/4_letter/bean.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TACO",
+    "length": 4,
+    "category": "Food",
+    "expectedPath": "assets/images/words/4_letter/taco.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "KIWI",
+    "length": 4,
+    "category": "Food",
+    "expectedPath": "assets/images/words/4_letter/kiwi.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CHIP",
+    "length": 4,
+    "category": "Food",
+    "expectedPath": "assets/images/words/4_letter/chip.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TREE",
+    "length": 4,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/4_letter/tree.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LEAF",
+    "length": 4,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/4_letter/leaf.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "ROCK",
+    "length": 4,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/4_letter/rock.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "POND",
+    "length": 4,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/4_letter/pond.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SAND",
+    "length": 4,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/4_letter/sand.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HILL",
+    "length": 4,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/4_letter/hill.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SEED",
+    "length": 4,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/4_letter/seed.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FERN",
+    "length": 4,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/4_letter/fern.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LAKE",
+    "length": 4,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/4_letter/lake.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MOSS",
+    "length": 4,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/4_letter/moss.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DOOR",
+    "length": 4,
+    "category": "Home",
+    "expectedPath": "assets/images/words/4_letter/door.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LAMP",
+    "length": 4,
+    "category": "Home",
+    "expectedPath": "assets/images/words/4_letter/lamp.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SOFA",
+    "length": 4,
+    "category": "Home",
+    "expectedPath": "assets/images/words/4_letter/sofa.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BATH",
+    "length": 4,
+    "category": "Home",
+    "expectedPath": "assets/images/words/4_letter/bath.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SINK",
+    "length": 4,
+    "category": "Home",
+    "expectedPath": "assets/images/words/4_letter/sink.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DISH",
+    "length": 4,
+    "category": "Home",
+    "expectedPath": "assets/images/words/4_letter/dish.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FORK",
+    "length": 4,
+    "category": "Home",
+    "expectedPath": "assets/images/words/4_letter/fork.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BOWL",
+    "length": 4,
+    "category": "Home",
+    "expectedPath": "assets/images/words/4_letter/bowl.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SOAP",
+    "length": 4,
+    "category": "Home",
+    "expectedPath": "assets/images/words/4_letter/soap.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "ROOF",
+    "length": 4,
+    "category": "Home",
+    "expectedPath": "assets/images/words/4_letter/roof.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BLUE",
+    "length": 4,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/4_letter/blue.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PINK",
+    "length": 4,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/4_letter/pink.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "GOLD",
+    "length": 4,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/4_letter/gold.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "GRAY",
+    "length": 4,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/4_letter/gray.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TEAL",
+    "length": 4,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/4_letter/teal.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "NAVY",
+    "length": 4,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/4_letter/navy.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "ROSE",
+    "length": 4,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/4_letter/rose.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "RUBY",
+    "length": 4,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/4_letter/ruby.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "JADE",
+    "length": 4,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/4_letter/jade.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LIME",
+    "length": 4,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/4_letter/lime.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HAND",
+    "length": 4,
+    "category": "Body",
+    "expectedPath": "assets/images/words/4_letter/hand.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FOOT",
+    "length": 4,
+    "category": "Body",
+    "expectedPath": "assets/images/words/4_letter/foot.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "NOSE",
+    "length": 4,
+    "category": "Body",
+    "expectedPath": "assets/images/words/4_letter/nose.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HAIR",
+    "length": 4,
+    "category": "Body",
+    "expectedPath": "assets/images/words/4_letter/hair.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "KNEE",
+    "length": 4,
+    "category": "Body",
+    "expectedPath": "assets/images/words/4_letter/knee.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CHIN",
+    "length": 4,
+    "category": "Body",
+    "expectedPath": "assets/images/words/4_letter/chin.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "NECK",
+    "length": 4,
+    "category": "Body",
+    "expectedPath": "assets/images/words/4_letter/neck.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HEAD",
+    "length": 4,
+    "category": "Body",
+    "expectedPath": "assets/images/words/4_letter/head.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "NAIL",
+    "length": 4,
+    "category": "Body",
+    "expectedPath": "assets/images/words/4_letter/nail.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HEEL",
+    "length": 4,
+    "category": "Body",
+    "expectedPath": "assets/images/words/4_letter/heel.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BALL",
+    "length": 4,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/4_letter/ball.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DOLL",
+    "length": 4,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/4_letter/doll.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "KITE",
+    "length": 4,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/4_letter/kite.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DRUM",
+    "length": 4,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/4_letter/drum.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "YOYO",
+    "length": 4,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/4_letter/yoyo.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "GAME",
+    "length": 4,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/4_letter/game.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HOOP",
+    "length": 4,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/4_letter/hoop.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BELL",
+    "length": 4,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/4_letter/bell.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DICE",
+    "length": 4,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/4_letter/dice.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CARD",
+    "length": 4,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/4_letter/card.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BOAT",
+    "length": 4,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/4_letter/boat.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SHIP",
+    "length": 4,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/4_letter/ship.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TRAM",
+    "length": 4,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/4_letter/tram.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TAXI",
+    "length": 4,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/4_letter/taxi.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "JEEP",
+    "length": 4,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/4_letter/jeep.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BIKE",
+    "length": 4,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/4_letter/bike.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "RAFT",
+    "length": 4,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/4_letter/raft.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CART",
+    "length": 4,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/4_letter/cart.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SLED",
+    "length": 4,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/4_letter/sled.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "KART",
+    "length": 4,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/4_letter/kart.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "RAIN",
+    "length": 4,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/4_letter/rain.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SNOW",
+    "length": 4,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/4_letter/snow.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "WIND",
+    "length": 4,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/4_letter/wind.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HAIL",
+    "length": 4,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/4_letter/hail.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MIST",
+    "length": 4,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/4_letter/mist.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "GUST",
+    "length": 4,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/4_letter/gust.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HEAT",
+    "length": 4,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/4_letter/heat.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "COLD",
+    "length": 4,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/4_letter/cold.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "WARM",
+    "length": 4,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/4_letter/warm.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "COOL",
+    "length": 4,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/4_letter/cool.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BOOK",
+    "length": 4,
+    "category": "School",
+    "expectedPath": "assets/images/words/4_letter/book.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DESK",
+    "length": 4,
+    "category": "School",
+    "expectedPath": "assets/images/words/4_letter/desk.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "GLUE",
+    "length": 4,
+    "category": "School",
+    "expectedPath": "assets/images/words/4_letter/glue.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TAPE",
+    "length": 4,
+    "category": "School",
+    "expectedPath": "assets/images/words/4_letter/tape.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "QUIZ",
+    "length": 4,
+    "category": "School",
+    "expectedPath": "assets/images/words/4_letter/quiz.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MATH",
+    "length": 4,
+    "category": "School",
+    "expectedPath": "assets/images/words/4_letter/math.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "NOTE",
+    "length": 4,
+    "category": "School",
+    "expectedPath": "assets/images/words/4_letter/note.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PAGE",
+    "length": 4,
+    "category": "School",
+    "expectedPath": "assets/images/words/4_letter/page.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "WORD",
+    "length": 4,
+    "category": "School",
+    "expectedPath": "assets/images/words/4_letter/word.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CLIP",
+    "length": 4,
+    "category": "School",
+    "expectedPath": "assets/images/words/4_letter/clip.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TIGER",
+    "length": 5,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/5_letter/tiger.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "ZEBRA",
+    "length": 5,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/5_letter/zebra.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HORSE",
+    "length": 5,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/5_letter/horse.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MOUSE",
+    "length": 5,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/5_letter/mouse.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SHEEP",
+    "length": 5,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/5_letter/sheep.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PANDA",
+    "length": 5,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/5_letter/panda.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "KOALA",
+    "length": 5,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/5_letter/koala.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CAMEL",
+    "length": 5,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/5_letter/camel.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "WHALE",
+    "length": 5,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/5_letter/whale.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "OTTER",
+    "length": 5,
+    "category": "Animals",
+    "expectedPath": "assets/images/words/5_letter/otter.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "APPLE",
+    "length": 5,
+    "category": "Food",
+    "expectedPath": "assets/images/words/5_letter/apple.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BREAD",
+    "length": 5,
+    "category": "Food",
+    "expectedPath": "assets/images/words/5_letter/bread.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PIZZA",
+    "length": 5,
+    "category": "Food",
+    "expectedPath": "assets/images/words/5_letter/pizza.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "GRAPE",
+    "length": 5,
+    "category": "Food",
+    "expectedPath": "assets/images/words/5_letter/grape.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LEMON",
+    "length": 5,
+    "category": "Food",
+    "expectedPath": "assets/images/words/5_letter/lemon.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MANGO",
+    "length": 5,
+    "category": "Food",
+    "expectedPath": "assets/images/words/5_letter/mango.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HONEY",
+    "length": 5,
+    "category": "Food",
+    "expectedPath": "assets/images/words/5_letter/honey.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PASTA",
+    "length": 5,
+    "category": "Food",
+    "expectedPath": "assets/images/words/5_letter/pasta.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TOAST",
+    "length": 5,
+    "category": "Food",
+    "expectedPath": "assets/images/words/5_letter/toast.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MELON",
+    "length": 5,
+    "category": "Food",
+    "expectedPath": "assets/images/words/5_letter/melon.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "RIVER",
+    "length": 5,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/5_letter/river.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "OCEAN",
+    "length": 5,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/5_letter/ocean.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BEACH",
+    "length": 5,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/5_letter/beach.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PLANT",
+    "length": 5,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/5_letter/plant.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "GRASS",
+    "length": 5,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/5_letter/grass.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "STONE",
+    "length": 5,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/5_letter/stone.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SHELL",
+    "length": 5,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/5_letter/shell.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "DAISY",
+    "length": 5,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/5_letter/daisy.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "ACORN",
+    "length": 5,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/5_letter/acorn.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FIELD",
+    "length": 5,
+    "category": "Nature",
+    "expectedPath": "assets/images/words/5_letter/field.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HOUSE",
+    "length": 5,
+    "category": "Home",
+    "expectedPath": "assets/images/words/5_letter/house.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CHAIR",
+    "length": 5,
+    "category": "Home",
+    "expectedPath": "assets/images/words/5_letter/chair.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TABLE",
+    "length": 5,
+    "category": "Home",
+    "expectedPath": "assets/images/words/5_letter/table.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CLOCK",
+    "length": 5,
+    "category": "Home",
+    "expectedPath": "assets/images/words/5_letter/clock.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SPOON",
+    "length": 5,
+    "category": "Home",
+    "expectedPath": "assets/images/words/5_letter/spoon.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TOWEL",
+    "length": 5,
+    "category": "Home",
+    "expectedPath": "assets/images/words/5_letter/towel.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "COUCH",
+    "length": 5,
+    "category": "Home",
+    "expectedPath": "assets/images/words/5_letter/couch.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PLATE",
+    "length": 5,
+    "category": "Home",
+    "expectedPath": "assets/images/words/5_letter/plate.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SHELF",
+    "length": 5,
+    "category": "Home",
+    "expectedPath": "assets/images/words/5_letter/shelf.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BROOM",
+    "length": 5,
+    "category": "Home",
+    "expectedPath": "assets/images/words/5_letter/broom.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "GREEN",
+    "length": 5,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/5_letter/green.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BLACK",
+    "length": 5,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/5_letter/black.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "WHITE",
+    "length": 5,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/5_letter/white.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BROWN",
+    "length": 5,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/5_letter/brown.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CORAL",
+    "length": 5,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/5_letter/coral.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LILAC",
+    "length": 5,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/5_letter/lilac.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "AMBER",
+    "length": 5,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/5_letter/amber.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CREAM",
+    "length": 5,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/5_letter/cream.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PEACH",
+    "length": 5,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/5_letter/peach.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "OLIVE",
+    "length": 5,
+    "category": "Colors",
+    "expectedPath": "assets/images/words/5_letter/olive.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "HEART",
+    "length": 5,
+    "category": "Body",
+    "expectedPath": "assets/images/words/5_letter/heart.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TOOTH",
+    "length": 5,
+    "category": "Body",
+    "expectedPath": "assets/images/words/5_letter/tooth.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MOUTH",
+    "length": 5,
+    "category": "Body",
+    "expectedPath": "assets/images/words/5_letter/mouth.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CHEEK",
+    "length": 5,
+    "category": "Body",
+    "expectedPath": "assets/images/words/5_letter/cheek.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "THUMB",
+    "length": 5,
+    "category": "Body",
+    "expectedPath": "assets/images/words/5_letter/thumb.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "ELBOW",
+    "length": 5,
+    "category": "Body",
+    "expectedPath": "assets/images/words/5_letter/elbow.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "ANKLE",
+    "length": 5,
+    "category": "Body",
+    "expectedPath": "assets/images/words/5_letter/ankle.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "WRIST",
+    "length": 5,
+    "category": "Body",
+    "expectedPath": "assets/images/words/5_letter/wrist.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BRAIN",
+    "length": 5,
+    "category": "Body",
+    "expectedPath": "assets/images/words/5_letter/brain.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CHEST",
+    "length": 5,
+    "category": "Body",
+    "expectedPath": "assets/images/words/5_letter/chest.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BLOCK",
+    "length": 5,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/5_letter/block.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TEDDY",
+    "length": 5,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/5_letter/teddy.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "ROBOT",
+    "length": 5,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/5_letter/robot.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SWING",
+    "length": 5,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/5_letter/swing.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SLIDE",
+    "length": 5,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/5_letter/slide.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "KAZOO",
+    "length": 5,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/5_letter/kazoo.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BEADS",
+    "length": 5,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/5_letter/beads.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CHESS",
+    "length": 5,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/5_letter/chess.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PIANO",
+    "length": 5,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/5_letter/piano.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FLUTE",
+    "length": 5,
+    "category": "Toys",
+    "expectedPath": "assets/images/words/5_letter/flute.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TRAIN",
+    "length": 5,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/5_letter/train.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PLANE",
+    "length": 5,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/5_letter/plane.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "TRUCK",
+    "length": 5,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/5_letter/truck.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "WAGON",
+    "length": 5,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/5_letter/wagon.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FERRY",
+    "length": 5,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/5_letter/ferry.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "YACHT",
+    "length": 5,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/5_letter/yacht.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CANOE",
+    "length": 5,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/5_letter/canoe.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "KAYAK",
+    "length": 5,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/5_letter/kayak.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "COACH",
+    "length": 5,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/5_letter/coach.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MOPED",
+    "length": 5,
+    "category": "Transport",
+    "expectedPath": "assets/images/words/5_letter/moped.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CLOUD",
+    "length": 5,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/5_letter/cloud.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "STORM",
+    "length": 5,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/5_letter/storm.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "RAINY",
+    "length": 5,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/5_letter/rainy.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SUNNY",
+    "length": 5,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/5_letter/sunny.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "WINDY",
+    "length": 5,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/5_letter/windy.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FROST",
+    "length": 5,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/5_letter/frost.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "FOGGY",
+    "length": 5,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/5_letter/foggy.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SNOWY",
+    "length": 5,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/5_letter/snowy.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "SLEET",
+    "length": 5,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/5_letter/sleet.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CHILL",
+    "length": 5,
+    "category": "Weather",
+    "expectedPath": "assets/images/words/5_letter/chill.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CHALK",
+    "length": 5,
+    "category": "School",
+    "expectedPath": "assets/images/words/5_letter/chalk.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PAPER",
+    "length": 5,
+    "category": "School",
+    "expectedPath": "assets/images/words/5_letter/paper.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "RULER",
+    "length": 5,
+    "category": "School",
+    "expectedPath": "assets/images/words/5_letter/ruler.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "PAINT",
+    "length": 5,
+    "category": "School",
+    "expectedPath": "assets/images/words/5_letter/paint.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CLASS",
+    "length": 5,
+    "category": "School",
+    "expectedPath": "assets/images/words/5_letter/class.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "LUNCH",
+    "length": 5,
+    "category": "School",
+    "expectedPath": "assets/images/words/5_letter/lunch.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "GLOBE",
+    "length": 5,
+    "category": "School",
+    "expectedPath": "assets/images/words/5_letter/globe.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "MUSIC",
+    "length": 5,
+    "category": "School",
+    "expectedPath": "assets/images/words/5_letter/music.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "CRAFT",
+    "length": 5,
+    "category": "School",
+    "expectedPath": "assets/images/words/5_letter/craft.png",
+    "present": true,
+    "placeholder": true
+  },
+  {
+    "word": "BOARD",
+    "length": 5,
+    "category": "School",
+    "expectedPath": "assets/images/words/5_letter/board.png",
+    "present": true,
+    "placeholder": true
+  }
+]

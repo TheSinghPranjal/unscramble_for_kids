@@ -1,0 +1,41 @@
+name: unscramble_for_kids
+description: "Kids Unscramble: a picture-clue word puzzle for ages 4-10."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^3.3.1
+  shared_preferences: ^2.5.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Every word image lives at assets/images/words/<n>_letter/<word>.png.
+  # assets/words/words.json is the single source of truth for word↔image.
+  assets:
+    - assets/words/
+    - assets/images/
+    - assets/images/words/3_letter/
+    - assets/images/words/4_letter/
+    - assets/images/words/5_letter/
+    - assets/images/rewards/
+    - assets/images/rewards/stars/
+    - assets/images/rewards/stickers/
+    - assets/images/rewards/badges/
+
+  fonts:
+    - family: Fredoka
+      fonts:
+        - asset: assets/fonts/Fredoka.ttf
