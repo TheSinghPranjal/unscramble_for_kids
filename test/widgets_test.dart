@@ -11,6 +11,7 @@ import 'package:unscramble_for_kids/features/unscramble/data/word_repository.dar
 import 'package:unscramble_for_kids/features/unscramble/domain/game_state.dart';
 import 'package:unscramble_for_kids/features/unscramble/domain/word_entry.dart';
 import 'package:unscramble_for_kids/features/unscramble/presentation/game_screen.dart';
+import 'package:unscramble_for_kids/features/unscramble/presentation/studio_splash.dart';
 import 'package:unscramble_for_kids/features/unscramble/presentation/rewards_screen.dart';
 import 'package:unscramble_for_kids/features/unscramble/presentation/word_library_screen.dart';
 import 'package:unscramble_for_kids/features/unscramble/presentation/widgets/word_picture.dart';
@@ -63,7 +64,10 @@ void main() {
     tester,
   ) async {
     final c = await pumpApp(tester, const UnscrambleApp());
-    await tester.pump();
+    expect(find.byKey(const Key('studio-splash')), findsOneWidget);
+    await tester.pump(SplashGate.hold);
+    await tester.pump(SplashGate.fade);
+    expect(find.byKey(const Key('studio-splash')), findsNothing);
     expect(c.read(bootProvider).hasValue, isTrue);
 
     expect(find.byKey(const Key('play-button')), findsOneWidget);
