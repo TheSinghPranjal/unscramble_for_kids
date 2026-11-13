@@ -26,6 +26,7 @@ flutter:
   # assets/words/words.json is the single source of truth for word↔image.
   assets:
     - assets/words/
+    - assets/branding/lazy_bear_club.png
     - assets/images/
     - assets/images/words/3_letter/
     - assets/images/words/4_letter/
